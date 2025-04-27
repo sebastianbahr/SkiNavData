@@ -1,3 +1,8 @@
+# Exclude large files
+Data/runs.geojson
+Data/lifts.geojson
+Data/ski_areas.geojson
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
