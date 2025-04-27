@@ -1,0 +1,5768 @@
+{
+  "features": [
+    {
+      "node": {
+        "ae20b9f9-9418-45f6-9628-542d11c25a57": {
+          "connected_nodes": {
+            "758a601e-7c36-4d73-bf22-318a5b46853d": {
+              "duration": 300.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999982720945
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "758a601e-7c36-4d73-bf22-318a5b46853d": {
+          "connected_nodes": {
+            "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+              "duration": 15.127346373906578,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999984032196
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "58a6b8c6-b25b-4785-9ea0-892622ff933e": {
+          "connected_nodes": {
+            "22b98de9-c0b3-47a8-a9bc-80795182a4c3": {
+              "duration": 522.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999320369985658
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "22b98de9-c0b3-47a8-a9bc-80795182a4c3": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "c885b040-39c1-4427-b0d7-a27c4c4c299e": {
+          "connected_nodes": {
+            "6ed217bc-b4b8-476b-9c9b-b82a034b6a90": {
+              "duration": 360.0,
+              "difficulty": "lift",
+              "distance_prop": 1.0000000001045695
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6ed217bc-b4b8-476b-9c9b-b82a034b6a90": {
+          "connected_nodes": {
+            "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.026500323137316022
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4646755c-26ab-4d58-8754-38f863fcd159": {
+          "connected_nodes": {
+            "df573ff4-9f22-4e52-842e-0af1520bcebf": {
+              "duration": 240.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999900480881562
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "df573ff4-9f22-4e52-842e-0af1520bcebf": {
+          "connected_nodes": {
+            "dac4afe8-d846-4ea6-9a22-488db12c987d": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.04637566505951108
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c7a9961-9771-49e9-b043-e582af438018": {
+          "connected_nodes": {
+            "43304e47-d7b8-4e8e-8b42-35b99cadb5cb": {
+              "duration": 390.0,
+              "difficulty": "lift",
+              "distance_prop": 0.99999898539245
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "43304e47-d7b8-4e8e-8b42-35b99cadb5cb": {
+          "connected_nodes": {
+            "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.01449025210941296
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "536be89c-4182-4fd4-acb8-6416119c2284": {
+          "connected_nodes": {
+            "31ddb26c-931a-4276-a5d4-2ef5d2d4dbf2": {
+              "duration": 414.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999948931079333
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "31ddb26c-931a-4276-a5d4-2ef5d2d4dbf2": {
+          "connected_nodes": {
+            "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+              "duration": 9.242550264315737,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000059223406
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2fabc178-4c96-402c-8812-977db6e9558a": {
+          "connected_nodes": {
+            "76f4594e-7ce6-4f72-864a-019fa4719290": {
+              "duration": 150.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999995208558
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "76f4594e-7ce6-4f72-864a-019fa4719290": {
+          "connected_nodes": {
+            "e2af199b-d97d-42ba-b700-8483bb2ae0cd": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.015080144550051168
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+          "connected_nodes": {
+            "5499716a-d274-4806-9d58-b7a8145277f8": {
+              "duration": 378.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999965249292
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5499716a-d274-4806-9d58-b7a8145277f8": {
+          "connected_nodes": {
+            "b2fc6381-7592-4fde-8d9d-6f5225d80b17": {
+              "duration": 22.41632302172282,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999967372231
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "13c762d8-6307-48a6-a06f-79f48ed7573e": {
+          "connected_nodes": {
+            "573c931b-8c4d-498f-996f-2ee9c2c2d7fb": {
+              "duration": 648.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999969318459
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "573c931b-8c4d-498f-996f-2ee9c2c2d7fb": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "a27b4170-5ebd-4883-8205-553252bc2d41": {
+          "connected_nodes": {
+            "f2141652-4d02-45e0-94f4-67a5ebfc18c6": {
+              "duration": 120.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999983596837
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f2141652-4d02-45e0-94f4-67a5ebfc18c6": {
+          "connected_nodes": {
+            "151a5a81-0461-4dce-a305-3de6705b8631": {
+              "duration": 44.71540484589149,
+              "difficulty": "easy",
+              "distance_prop": 0.16445544811776053
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+          "connected_nodes": {
+            "0a43f700-37ee-4198-883b-dbe3d05dd486": {
+              "duration": 390.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999338503969464
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0a43f700-37ee-4198-883b-dbe3d05dd486": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "1c1ef1fd-428d-430a-8d98-a43e875bf3d3": {
+          "connected_nodes": {
+            "57b645b6-6612-4348-9888-76e6017a8419": {
+              "duration": 420.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999995710622
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "57b645b6-6612-4348-9888-76e6017a8419": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "6d1651fd-6659-484a-9bf4-8895574a988b": {
+          "connected_nodes": {
+            "5fa70acc-5ca8-4b40-95e7-4e6b23a8344c": {
+              "duration": 124.57515729572144,
+              "difficulty": "lift",
+              "distance_prop": 0.999999997959435
+            },
+            "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.04507513851235645
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5fa70acc-5ca8-4b40-95e7-4e6b23a8344c": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "cf8b36ee-4623-4f0b-b1a7-b097996b99b2": {
+          "connected_nodes": {
+            "35f3b297-cf34-4831-b828-a4ee8b0e5c60": {
+              "duration": 618.0,
+              "difficulty": "lift",
+              "distance_prop": 0.999987974574757
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "35f3b297-cf34-4831-b828-a4ee8b0e5c60": {
+          "connected_nodes": {
+            "858e0833-bbad-4e8e-9d62-6c53f6d0b95a": {
+              "duration": 42.63232420509756,
+              "difficulty": "easy",
+              "distance_prop": 0.19457701238961367
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d0e2ee31-dde0-425a-b4c1-69be6dea8d4e": {
+          "connected_nodes": {
+            "aa527e57-a98b-459e-bb2d-16e837cd7ad4": {
+              "duration": 120.0,
+              "difficulty": "lift",
+              "distance_prop": 1.0000000049470663
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aa527e57-a98b-459e-bb2d-16e837cd7ad4": {
+          "connected_nodes": {
+            "d0e2ee31-dde0-425a-b4c1-69be6dea8d4e": {
+              "duration": 32.840172955824535,
+              "difficulty": "novice",
+              "distance_prop": 1.0000000075624225
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8da9c54e-ec5d-4039-a99a-2cd131532a84": {
+          "connected_nodes": {
+            "960f2ba5-1f71-4629-badc-bf216ca7be27": {
+              "duration": 16.963192468597125,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999908482133
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "960f2ba5-1f71-4629-badc-bf216ca7be27": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "f45c71a6-91ea-4b12-9d79-9dc1622dc53c": {
+          "connected_nodes": {
+            "bf4b1824-6e73-4e4a-aaab-36a885303113": {
+              "duration": 61.02816021338376,
+              "difficulty": "lift",
+              "distance_prop": 1.000000000443112
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "bf4b1824-6e73-4e4a-aaab-36a885303113": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "ca20644d-44ec-4b3e-8172-4bc1652606ff": {
+          "connected_nodes": {
+            "db1e924b-038e-4a0e-b26c-a7c6c7494aef": {
+              "duration": 16.906797049188516,
+              "difficulty": "lift",
+              "distance_prop": 1.0000000049067161
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "db1e924b-038e-4a0e-b26c-a7c6c7494aef": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "25a457dc-3683-488b-9d99-92b3133f32de": {
+          "connected_nodes": {
+            "4f0ece35-9e82-4628-9a86-1b2edcd6b68c": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.018851283128488508
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4f0ece35-9e82-4628-9a86-1b2edcd6b68c": {
+          "connected_nodes": {
+            "ae20b9f9-9418-45f6-9628-542d11c25a57": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.1642368597119405
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3170f697-ea04-4a06-afc7-8692e602eee5": {
+          "connected_nodes": {
+            "4b5939dc-f252-4cbb-9c66-f8ab0f7cddde": {
+              "duration": 900.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999433136391914
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4b5939dc-f252-4cbb-9c66-f8ab0f7cddde": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+          "connected_nodes": {
+            "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.25803074928128544
+            },
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5924787699485553
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4299177356946766
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+          "connected_nodes": {
+            "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.02359994873660714
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 12.253839773366895,
+              "difficulty": "advanced",
+              "distance_prop": 0.37930872631090584
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+          "connected_nodes": {
+            "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.35623112766905035
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+          "connected_nodes": {
+            "f3522d46-cd97-4d7b-aa65-e249036ffd45": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.3621381741434707
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f3522d46-cd97-4d7b-aa65-e249036ffd45": {
+          "connected_nodes": {
+            "8d1ad9a0-87a8-46a1-8af4-7c5b88e1e156": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.0395411887900471
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+          "connected_nodes": {
+            "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.25803074928128544
+            },
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5924787699485553
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4299177356946766
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+          "connected_nodes": {
+            "3ef65e56-5140-4470-bbb3-c55290e8d8bb": {
+              "duration": 69.0429978128975,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999976539762
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3ef65e56-5140-4470-bbb3-c55290e8d8bb": {
+          "connected_nodes": {
+            "226580bb-edeb-4dbe-a7a4-61ebe588b637": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11605024995845835
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "226580bb-edeb-4dbe-a7a4-61ebe588b637": {
+          "connected_nodes": {
+            "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.03750501226046472
+            },
+            "ead27218-0075-49af-81cc-9d2613d061ef": {
+              "duration": 7.234421885901006,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999964396572
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+          "connected_nodes": {
+            "ead27218-0075-49af-81cc-9d2613d061ef": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.22272944119868238
+            },
+            "4646755c-26ab-4d58-8754-38f863fcd159": {
+              "duration": 3.172606176539269,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000015960847
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6b40b532-56cf-45db-a013-b7cf548bb520": {
+          "connected_nodes": {
+            "1db67454-67c0-451d-9046-d63da28d9fa9": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.2597954494386699
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1db67454-67c0-451d-9046-d63da28d9fa9": {
+          "connected_nodes": {
+            "367e9c37-818d-40ba-af6d-53cc9f420d40": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.32670467581901
+            },
+            "c9014e4b-7567-4ae2-842d-832e63a84131": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.1302964181048033
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 49.79153059040901,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999985869591
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "367e9c37-818d-40ba-af6d-53cc9f420d40": {
+          "connected_nodes": {
+            "57812da7-2a5e-492f-956d-c799ecec59f1": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.41349987344784583
+            },
+            "84613cbd-e0ad-436a-84db-45b70189be9c": {
+              "duration": 51.30074387958477,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999990588323
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "57812da7-2a5e-492f-956d-c799ecec59f1": {
+          "connected_nodes": {
+            "23bde7cf-6213-4aa3-bae4-8f9e790ceae8": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.11429823171944235
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "994e9923-15bf-46a8-9298-d242f778a703": {
+          "connected_nodes": {
+            "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4435020260632966
+            },
+            "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+              "duration": 16.393490373700065,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999942129931
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+          "connected_nodes": {
+            "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.35005927715600654
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+          "connected_nodes": {
+            "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.20643869741647045
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+          "connected_nodes": {
+            "c885b040-39c1-4427-b0d7-a27c4c4c299e": {
+              "duration": 4.8481022177237,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999952607782
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "c9014e4b-7567-4ae2-842d-832e63a84131": {
+          "connected_nodes": {
+            "6944a019-6ecd-4329-80a3-2233002a67f1": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.07154778104911125
+            },
+            "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+              "duration": 112.2195345588101,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000008558225
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.270346519744325
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6944a019-6ecd-4329-80a3-2233002a67f1": {
+          "connected_nodes": {
+            "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.6449156299750678
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+          "connected_nodes": {
+            "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.283536587772782
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+          "connected_nodes": {
+            "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.20643869741647045
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d934ac24-c68a-4908-9c94-936a45c3d037": {
+          "connected_nodes": {
+            "b266a0be-e1d0-4b3b-855c-fd067a7319aa": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.19342355723001767
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b266a0be-e1d0-4b3b-855c-fd067a7319aa": {
+          "connected_nodes": {
+            "b917e67d-4b29-413e-a91b-ada8da38beda": {
+              "duration": 270.05870377261454,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000002181655
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b917e67d-4b29-413e-a91b-ada8da38beda": {
+          "connected_nodes": {
+            "a076c71b-c7eb-4bbd-a397-20b7762b1afc": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.4583627592262762
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a076c71b-c7eb-4bbd-a397-20b7762b1afc": {
+          "connected_nodes": {
+            "e276c30a-c5bb-4225-81f8-87e40995378d": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.030358624907783096
+            },
+            "f7983582-ae83-43fe-a3d7-4ed111e12802": {
+              "duration": 12.603855634240176,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000002661835
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e276c30a-c5bb-4225-81f8-87e40995378d": {
+          "connected_nodes": {
+            "551a1ec4-e697-4f6e-a885-59d8b54cb1a6": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.004663908172677368
+            },
+            "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+              "duration": 283.02202810729915,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999996855378
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "551a1ec4-e697-4f6e-a885-59d8b54cb1a6": {
+          "connected_nodes": {
+            "017da0b9-9673-4cae-b596-f9da6011d72b": {
+              "duration": 1.7230396821205765,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000136645406
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "21d9bbf5-6c14-43ae-a1b9-424bacfe62dc": {
+          "connected_nodes": {
+            "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.03584988271786763
+            },
+            "536be89c-4182-4fd4-acb8-6416119c2284": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.02830447256393552
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+          "connected_nodes": {
+            "1e535e32-7f4b-4cf1-a655-1a60742994eb": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.10531261258162194
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1e535e32-7f4b-4cf1-a655-1a60742994eb": {
+          "connected_nodes": {
+            "372656a0-afe0-4b4f-813d-65278688bc34": {
+              "duration": 42.703171802895746,
+              "difficulty": "easy",
+              "distance_prop": 0.999999999418113
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "372656a0-afe0-4b4f-813d-65278688bc34": {
+          "connected_nodes": {
+            "e63a680b-418d-4b1e-ba1d-a9278cdac114": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7876124634031297
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e63a680b-418d-4b1e-ba1d-a9278cdac114": {
+          "connected_nodes": {
+            "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+              "duration": 14.581974523504599,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999990458883
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "dac4afe8-d846-4ea6-9a22-488db12c987d": {
+          "connected_nodes": {
+            "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+              "duration": 196.11284534227724,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000005021776
+            },
+            "2e5f398f-617a-4d82-9a41-544f818e9ee2": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4713722782800254
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+          "connected_nodes": {
+            "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.31116784748658555
+            },
+            "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+              "duration": 4.143297940057385,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999842877577
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "43304e47-d7b8-4e8e-8b42-35b99cadb5cb": {
+          "connected_nodes": {
+            "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.01449025210941296
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.11612383547795042
+            },
+            "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07515021380832163
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 212.44638657897372,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000003389173
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.1972476331942274
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.640591841924569
+            },
+            "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.24823042272829735
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+          "connected_nodes": {
+            "33702b81-ff56-4bd6-8230-76a9a8de3dc9": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.011045793467720116
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "33702b81-ff56-4bd6-8230-76a9a8de3dc9": {
+          "connected_nodes": {
+            "3c7a9961-9771-49e9-b043-e582af438018": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.02050064407931158
+            },
+            "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+              "duration": 31.737427517921557,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000015575694
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c7a9961-9771-49e9-b043-e582af438018": {
+          "connected_nodes": {
+            "43304e47-d7b8-4e8e-8b42-35b99cadb5cb": {
+              "duration": 390.0,
+              "difficulty": "lift",
+              "distance_prop": 0.99999898539245
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "151a5a81-0461-4dce-a305-3de6705b8631": {
+          "connected_nodes": {
+            "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+              "duration": 44.71540484589149,
+              "difficulty": "easy",
+              "distance_prop": 0.8355445504435594
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+          "connected_nodes": {
+            "4cb9e6e8-7bf3-4ace-bc3a-901fbc78f10a": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.14761390387025194
+            },
+            "8ca8981f-d0a0-4d31-804c-873d3080eb38": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.633693503939176
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4cb9e6e8-7bf3-4ace-bc3a-901fbc78f10a": {
+          "connected_nodes": {
+            "358ad0db-efb4-4bbc-9f94-00c816f38df4": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.5651648352612348
+            },
+            "5ba20322-cadd-4271-a6b8-1838007405f8": {
+              "duration": 95.70729300441691,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999982804019
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "358ad0db-efb4-4bbc-9f94-00c816f38df4": {
+          "connected_nodes": {
+            "25a457dc-3683-488b-9d99-92b3133f32de": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.08888522478692251
+            },
+            "7a6dcd83-37e1-4a5d-9ccf-338cf4deec93": {
+              "duration": 5.832912451499029,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000015400934
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "25a457dc-3683-488b-9d99-92b3133f32de": {
+          "connected_nodes": {
+            "4f0ece35-9e82-4628-9a86-1b2edcd6b68c": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.018851283128488508
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4f0ece35-9e82-4628-9a86-1b2edcd6b68c": {
+          "connected_nodes": {
+            "ae20b9f9-9418-45f6-9628-542d11c25a57": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.1642368597119405
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ae20b9f9-9418-45f6-9628-542d11c25a57": {
+          "connected_nodes": {
+            "758a601e-7c36-4d73-bf22-318a5b46853d": {
+              "duration": 300.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999982720945
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.11612383547795042
+            },
+            "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07515021380832163
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 212.44638657897372,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000003389173
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.17333662124601654
+            },
+            "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+              "duration": 94.70218637217842,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999996156844
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.640591841924569
+            },
+            "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.24823042272829735
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+          "connected_nodes": {
+            "921d41ef-2d1e-409f-99ad-ca6da7aa59ab": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.18377285055516854
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 153.07027245806574,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7050890278101345
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "921d41ef-2d1e-409f-99ad-ca6da7aa59ab": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.31950989159391935
+            },
+            "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+              "duration": 90.19415742197941,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5609573054761103
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+          "connected_nodes": {
+            "33702b81-ff56-4bd6-8230-76a9a8de3dc9": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.011045793467720116
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 60.1568123428001,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999995506885
+            },
+            "a31e47d1-55e9-472d-8505-090989e74490": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3936713128121848
+            },
+            "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+              "duration": 31.139602427731877,
+              "difficulty": "easy",
+              "distance_prop": 0.999999998349535
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.640591841924569
+            },
+            "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.24823042272829735
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.17333662124601654
+            },
+            "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+              "duration": 94.70218637217842,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999996156844
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+          "connected_nodes": {
+            "921d41ef-2d1e-409f-99ad-ca6da7aa59ab": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.18377285055516854
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 153.07027245806574,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7050890278101345
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+          "connected_nodes": {
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.41277099339427775
+            },
+            "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.12410140807743306
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+          "connected_nodes": {
+            "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.223747601068547
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+          "connected_nodes": {
+            "2fabc178-4c96-402c-8812-977db6e9558a": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.3634814055553788
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2fabc178-4c96-402c-8812-977db6e9558a": {
+          "connected_nodes": {
+            "76f4594e-7ce6-4f72-864a-019fa4719290": {
+              "duration": 150.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999995208558
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+          "connected_nodes": {
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.41277099339427775
+            },
+            "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.12410140807743306
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+          "connected_nodes": {
+            "70047f81-d177-4aba-a246-0a5853a582a6": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.09981928410581774
+            },
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 52.406633597763935,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000013892727
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "70047f81-d177-4aba-a246-0a5853a582a6": {
+          "connected_nodes": {
+            "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.6087052997307113
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+          "connected_nodes": {
+            "21d9bbf5-6c14-43ae-a1b9-424bacfe62dc": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.13906953616381007
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "21d9bbf5-6c14-43ae-a1b9-424bacfe62dc": {
+          "connected_nodes": {
+            "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.03584988271786763
+            },
+            "536be89c-4182-4fd4-acb8-6416119c2284": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.02830447256393552
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "536be89c-4182-4fd4-acb8-6416119c2284": {
+          "connected_nodes": {
+            "31ddb26c-931a-4276-a5d4-2ef5d2d4dbf2": {
+              "duration": 414.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999948931079333
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "deddde55-c80a-4dab-97cb-8670a4e3d77f": {
+          "connected_nodes": {
+            "9e465f15-4841-4d4e-bb16-b7ae57e2d92b": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.28685676868974885
+            },
+            "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.5954573813614938
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9e465f15-4841-4d4e-bb16-b7ae57e2d92b": {
+          "connected_nodes": {
+            "f6e45d4b-224c-4159-aa38-4f1c9e99a8c5": {
+              "duration": 13.585416906731751,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000040723918
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f6e45d4b-224c-4159-aa38-4f1c9e99a8c5": {
+          "connected_nodes": {
+            "3c2168e4-31cf-4b62-bf9f-f9415a45c595": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.21794065891172132
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c2168e4-31cf-4b62-bf9f-f9415a45c595": {
+          "connected_nodes": {
+            "57e61f45-2e1b-4b8d-b935-043a7e4f4f18": {
+              "duration": 7.8829841980353015,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000044487525
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "57e61f45-2e1b-4b8d-b935-043a7e4f4f18": {
+          "connected_nodes": {
+            "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4109963994789908
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+          "connected_nodes": {
+            "a27b4170-5ebd-4883-8205-553252bc2d41": {
+              "duration": 2.5772576670816894,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999781433677
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+          "connected_nodes": {
+            "4cb9e6e8-7bf3-4ace-bc3a-901fbc78f10a": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.14761390387025194
+            },
+            "8ca8981f-d0a0-4d31-804c-873d3080eb38": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.633693503939176
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8ca8981f-d0a0-4d31-804c-873d3080eb38": {
+          "connected_nodes": {
+            "5ba20322-cadd-4271-a6b8-1838007405f8": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.057106744055340955
+            },
+            "f979da31-d35e-472f-8066-a07e5788b2f3": {
+              "duration": 16.785432465636344,
+              "difficulty": "advanced",
+              "distance_prop": 1.000000000401188
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5ba20322-cadd-4271-a6b8-1838007405f8": {
+          "connected_nodes": {
+            "f979da31-d35e-472f-8066-a07e5788b2f3": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.14122132889434363
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f979da31-d35e-472f-8066-a07e5788b2f3": {
+          "connected_nodes": {
+            "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.16797842292645954
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+          "connected_nodes": {
+            "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.048273812234075945
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4cb9e6e8-7bf3-4ace-bc3a-901fbc78f10a": {
+          "connected_nodes": {
+            "358ad0db-efb4-4bbc-9f94-00c816f38df4": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.5651648352612348
+            },
+            "5ba20322-cadd-4271-a6b8-1838007405f8": {
+              "duration": 95.70729300441691,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999982804019
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5ba20322-cadd-4271-a6b8-1838007405f8": {
+          "connected_nodes": {
+            "f979da31-d35e-472f-8066-a07e5788b2f3": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.14122132889434363
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad863aa3-d0e3-406b-b232-37fb570b2a8a": {
+          "connected_nodes": {
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 72.20791863490032,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999990781754
+            },
+            "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.43634015517048097
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+          "connected_nodes": {
+            "3ef65e56-5140-4470-bbb3-c55290e8d8bb": {
+              "duration": 69.0429978128975,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999976539762
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "df573ff4-9f22-4e52-842e-0af1520bcebf": {
+          "connected_nodes": {
+            "dac4afe8-d846-4ea6-9a22-488db12c987d": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.04637566505951108
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "dac4afe8-d846-4ea6-9a22-488db12c987d": {
+          "connected_nodes": {
+            "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+              "duration": 196.11284534227724,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000005021776
+            },
+            "2e5f398f-617a-4d82-9a41-544f818e9ee2": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4713722782800254
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2e5f398f-617a-4d82-9a41-544f818e9ee2": {
+          "connected_nodes": {
+            "ad863aa3-d0e3-406b-b232-37fb570b2a8a": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.0459119014431899
+            },
+            "ce02c221-1595-4976-9a18-168032d09b23": {
+              "duration": 31.71433691028388,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999997506328
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad863aa3-d0e3-406b-b232-37fb570b2a8a": {
+          "connected_nodes": {
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 72.20791863490032,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999990781754
+            },
+            "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.43634015517048097
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+          "connected_nodes": {
+            "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.25803074928128544
+            },
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5924787699485553
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4299177356946766
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b2fc6381-7592-4fde-8d9d-6f5225d80b17": {
+          "connected_nodes": {
+            "dafbb55b-d71f-4e60-877a-03bfcf32f6f0": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.06485239564382
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 149.5870791321331,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000008059236
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "dafbb55b-d71f-4e60-877a-03bfcf32f6f0": {
+          "connected_nodes": {
+            "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.1277561704686302
+            },
+            "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+              "duration": 102.6284682068595,
+              "difficulty": "freeride",
+              "distance_prop": 0.30848035275673696
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+          "connected_nodes": {
+            "e5acfef5-826e-4297-972b-99377e5f41ea": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.8073914340082547
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.5657559488867107
+            },
+            "8d042dcf-d887-46f5-95fc-5c2c9d115e6a": {
+              "duration": 282.6160907725211,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5355449855106776
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5acfef5-826e-4297-972b-99377e5f41ea": {
+          "connected_nodes": {
+            "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.05249273601583403
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b2fc6381-7592-4fde-8d9d-6f5225d80b17": {
+          "connected_nodes": {
+            "dafbb55b-d71f-4e60-877a-03bfcf32f6f0": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.06485239564382
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 149.5870791321331,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000008059236
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9af75058-7992-44b8-9648-9c581100abe0": {
+          "connected_nodes": {
+            "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.05800330075110882
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b0a258a7-3df9-46f3-8d01-24e0615267d4": {
+          "connected_nodes": {
+            "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07331861546361859
+            },
+            "06d632e6-62a5-4572-804b-9e588abd555e": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.39339662441927425
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+          "connected_nodes": {
+            "7c37eade-9ae8-439d-bc6b-4b8fc47f0a3d": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.44749507940612226
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7c37eade-9ae8-439d-bc6b-4b8fc47f0a3d": {
+          "connected_nodes": {
+            "e4e3ef67-c228-49a1-84c7-30aeed1fd65d": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.05574209662788273
+            },
+            "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+              "duration": 30.746254666843008,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999956323734
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e4e3ef67-c228-49a1-84c7-30aeed1fd65d": {
+          "connected_nodes": {
+            "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11916998073376929
+            },
+            "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+              "duration": 42.65983011816438,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000011397336
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+          "connected_nodes": {
+            "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.17157284408144075
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+          "connected_nodes": {
+            "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.13270138465855233
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+          "connected_nodes": {
+            "e1f72e38-5cb7-4cfa-a802-0e3168a873fc": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.06293702064180492
+            },
+            "e814f99b-2add-4c48-8736-a317e7594dbc": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9087789324090368
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "33702b81-ff56-4bd6-8230-76a9a8de3dc9": {
+          "connected_nodes": {
+            "3c7a9961-9771-49e9-b043-e582af438018": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.02050064407931158
+            },
+            "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+              "duration": 31.737427517921557,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000015575694
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2b9bd6c2-0a03-4ce4-9a56-f75805fc4b0e": {
+          "connected_nodes": {
+            "1e535e32-7f4b-4cf1-a655-1a60742994eb": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.10531261258162194
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "921d41ef-2d1e-409f-99ad-ca6da7aa59ab": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.31950989159391935
+            },
+            "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+              "duration": 90.19415742197941,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5609573054761103
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+          "connected_nodes": {
+            "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+              "duration": 90.19415742197941,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4390426938127556
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+          "connected_nodes": {
+            "21d9bbf5-6c14-43ae-a1b9-424bacfe62dc": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.13906953616381007
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+          "connected_nodes": {
+            "70047f81-d177-4aba-a246-0a5853a582a6": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.09981928410581774
+            },
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 52.406633597763935,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000013892727
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+          "connected_nodes": {
+            "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.223747601068547
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "39365d47-e687-4f98-b13c-07847a7cc3d4": {
+          "connected_nodes": {
+            "41c97f27-2f66-4bda-ace7-03a694ea409e": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3531731275650233
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "41c97f27-2f66-4bda-ace7-03a694ea409e": {
+          "connected_nodes": {
+            "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11669601693890143
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5ea81f0-224a-463c-b3b9-7a236b91c4c9": {
+          "connected_nodes": {
+            "39365d47-e687-4f98-b13c-07847a7cc3d4": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5037609960553572
+            },
+            "70047f81-d177-4aba-a246-0a5853a582a6": {
+              "duration": 9.693863795575485,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999975554245
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "39365d47-e687-4f98-b13c-07847a7cc3d4": {
+          "connected_nodes": {
+            "41c97f27-2f66-4bda-ace7-03a694ea409e": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3531731275650233
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "41c97f27-2f66-4bda-ace7-03a694ea409e": {
+          "connected_nodes": {
+            "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11669601693890143
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+          "connected_nodes": {
+            "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.026369859986868634
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "76f4594e-7ce6-4f72-864a-019fa4719290": {
+          "connected_nodes": {
+            "e2af199b-d97d-42ba-b700-8483bb2ae0cd": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.015080144550051168
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e2af199b-d97d-42ba-b700-8483bb2ae0cd": {
+          "connected_nodes": {
+            "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.08857228430340658
+            },
+            "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+              "duration": 15.928161732176152,
+              "difficulty": "freeride",
+              "distance_prop": 0.9999999995371514
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+          "connected_nodes": {
+            "e5acfef5-826e-4297-972b-99377e5f41ea": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.8073914340082547
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.5657559488867107
+            },
+            "8d042dcf-d887-46f5-95fc-5c2c9d115e6a": {
+              "duration": 282.6160907725211,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5355449855106776
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9af75058-7992-44b8-9648-9c581100abe0": {
+          "connected_nodes": {
+            "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.05800330075110882
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+          "connected_nodes": {
+            "e1f72e38-5cb7-4cfa-a802-0e3168a873fc": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.06293702064180492
+            },
+            "e814f99b-2add-4c48-8736-a317e7594dbc": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9087789324090368
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e1f72e38-5cb7-4cfa-a802-0e3168a873fc": {
+          "connected_nodes": {
+            "e5acfef5-826e-4297-972b-99377e5f41ea": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.1344982371590003
+            },
+            "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+              "duration": 42.5914475879764,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000013485726
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5acfef5-826e-4297-972b-99377e5f41ea": {
+          "connected_nodes": {
+            "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.05249273601583403
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+          "connected_nodes": {
+            "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.02266032696255914
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+          "connected_nodes": {
+            "693d6cb7-cda1-46a7-ac0b-c5837f583225": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.1506025277591729
+            },
+            "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+              "duration": 8.450226105917656,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000010462349
+            },
+            "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+              "duration": 15.09429740172803,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999997012027
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0eba5d3b-2b60-44c8-981f-c51bec52289d": {
+          "connected_nodes": {
+            "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.8493974664812419
+            },
+            "d934ac24-c68a-4908-9c94-936a45c3d037": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.1870746027849824
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+          "connected_nodes": {
+            "693d6cb7-cda1-46a7-ac0b-c5837f583225": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.1506025277591729
+            },
+            "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+              "duration": 8.450226105917656,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000010462349
+            },
+            "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+              "duration": 15.09429740172803,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999997012027
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "693d6cb7-cda1-46a7-ac0b-c5837f583225": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+          "connected_nodes": {
+            "693d6cb7-cda1-46a7-ac0b-c5837f583225": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.1506025277591729
+            },
+            "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+              "duration": 8.450226105917656,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000010462349
+            },
+            "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+              "duration": 15.09429740172803,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999997012027
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+          "connected_nodes": {
+            "5499716a-d274-4806-9d58-b7a8145277f8": {
+              "duration": 378.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999965249292
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+          "connected_nodes": {
+            "693d6cb7-cda1-46a7-ac0b-c5837f583225": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.1506025277591729
+            },
+            "aeb9d9c9-8422-43f8-93de-927d9c66afc2": {
+              "duration": 8.450226105917656,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000010462349
+            },
+            "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+              "duration": 15.09429740172803,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999997012027
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7a9ee119-f6cf-436c-ac47-2b7ac09d9437": {
+          "connected_nodes": {
+            "0a43f700-37ee-4198-883b-dbe3d05dd486": {
+              "duration": 390.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999338503969464
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "367e9c37-818d-40ba-af6d-53cc9f420d40": {
+          "connected_nodes": {
+            "57812da7-2a5e-492f-956d-c799ecec59f1": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.41349987344784583
+            },
+            "84613cbd-e0ad-436a-84db-45b70189be9c": {
+              "duration": 51.30074387958477,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999990588323
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "84613cbd-e0ad-436a-84db-45b70189be9c": {
+          "connected_nodes": {
+            "57812da7-2a5e-492f-956d-c799ecec59f1": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.15854690510772562
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6ed217bc-b4b8-476b-9c9b-b82a034b6a90": {
+          "connected_nodes": {
+            "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.026500323137316022
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "48adfb1f-61d5-4668-9dfc-42c7b64a8578": {
+          "connected_nodes": {
+            "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.25803074928128544
+            },
+            "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5924787699485553
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4299177356946766
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+          "connected_nodes": {
+            "927c74b1-0959-42f5-bf47-157c68631250": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5435819416410137
+            },
+            "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+              "duration": 120.25911152456676,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999997771782
+            },
+            "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+              "duration": 12.253839773366895,
+              "difficulty": "advanced",
+              "distance_prop": 0.6206912812425224
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "927c74b1-0959-42f5-bf47-157c68631250": {
+          "connected_nodes": {
+            "96b1f065-378d-45bf-b815-4b9ef5283569": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.053877633978543095
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9eadb096-3f25-479f-b9f4-94a030b32230": {
+          "connected_nodes": {
+            "4669b820-119d-4ccd-8ddc-2559d09386b0": {
+              "duration": 47.506982447793845,
+              "difficulty": "easy",
+              "distance_prop": 0.39266372838199975
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4669b820-119d-4ccd-8ddc-2559d09386b0": {
+          "connected_nodes": {
+            "cac40de9-907a-4378-acef-e24efed5ed7d": {
+              "duration": 47.506982447793845,
+              "difficulty": "easy",
+              "distance_prop": 0.6073362722125178
+            },
+            "d934ac24-c68a-4908-9c94-936a45c3d037": {
+              "duration": 89.79552941319074,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000000563989
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "cac40de9-907a-4378-acef-e24efed5ed7d": {
+          "connected_nodes": {
+            "0eba5d3b-2b60-44c8-981f-c51bec52289d": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.09227873128417557
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "23bde7cf-6213-4aa3-bae4-8f9e790ceae8": {
+          "connected_nodes": {
+            "9eadb096-3f25-479f-b9f4-94a030b32230": {
+              "duration": 3.7415770261002033,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000053810327
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9eadb096-3f25-479f-b9f4-94a030b32230": {
+          "connected_nodes": {
+            "4669b820-119d-4ccd-8ddc-2559d09386b0": {
+              "duration": 47.506982447793845,
+              "difficulty": "easy",
+              "distance_prop": 0.39266372838199975
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+          "connected_nodes": {
+            "e5acfef5-826e-4297-972b-99377e5f41ea": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.8073914340082547
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.5657559488867107
+            },
+            "8d042dcf-d887-46f5-95fc-5c2c9d115e6a": {
+              "duration": 282.6160907725211,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5355449855106776
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8d042dcf-d887-46f5-95fc-5c2c9d115e6a": {
+          "connected_nodes": {
+            "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+              "duration": 282.6160907725211,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4644550139326488
+            },
+            "e814f99b-2add-4c48-8736-a317e7594dbc": {
+              "duration": 86.9846769379006,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000017203736
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+          "connected_nodes": {
+            "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.026369859986868634
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0c56b65d-6bf1-4d68-a7c6-28d3dc390345": {
+          "connected_nodes": {
+            "cac40de9-907a-4378-acef-e24efed5ed7d": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.7206466657585799
+            },
+            "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+              "duration": 14.390574514990595,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999955328961
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "cac40de9-907a-4378-acef-e24efed5ed7d": {
+          "connected_nodes": {
+            "0eba5d3b-2b60-44c8-981f-c51bec52289d": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.09227873128417557
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0eba5d3b-2b60-44c8-981f-c51bec52289d": {
+          "connected_nodes": {
+            "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+              "duration": 45.026387352737785,
+              "difficulty": "easy",
+              "distance_prop": 0.8493974664812419
+            },
+            "d934ac24-c68a-4908-9c94-936a45c3d037": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.1870746027849824
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d934ac24-c68a-4908-9c94-936a45c3d037": {
+          "connected_nodes": {
+            "b266a0be-e1d0-4b3b-855c-fd067a7319aa": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.19342355723001767
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b266a0be-e1d0-4b3b-855c-fd067a7319aa": {
+          "connected_nodes": {
+            "b917e67d-4b29-413e-a91b-ada8da38beda": {
+              "duration": 270.05870377261454,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000002181655
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b917e67d-4b29-413e-a91b-ada8da38beda": {
+          "connected_nodes": {
+            "a076c71b-c7eb-4bbd-a397-20b7762b1afc": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.4583627592262762
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "994e9923-15bf-46a8-9298-d242f778a703": {
+          "connected_nodes": {
+            "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4435020260632966
+            },
+            "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+              "duration": 16.393490373700065,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999942129931
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+          "connected_nodes": {
+            "9591cc97-bd94-4663-b2aa-f6ec8e3e955d": {
+              "duration": 150.62090205496887,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999995708267
+            },
+            "84613cbd-e0ad-436a-84db-45b70189be9c": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.2779611507037489
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+          "connected_nodes": {
+            "e1f72e38-5cb7-4cfa-a802-0e3168a873fc": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.06293702064180492
+            },
+            "e814f99b-2add-4c48-8736-a317e7594dbc": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9087789324090368
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e814f99b-2add-4c48-8736-a317e7594dbc": {
+          "connected_nodes": {
+            "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.0912210672111305
+            },
+            "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9679119651338065
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "858e0833-bbad-4e8e-9d62-6c53f6d0b95a": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 17.705532817072605,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000010446162
+            },
+            "66fc348e-2282-42a0-a29e-ce9204901026": {
+              "duration": 42.63232420509756,
+              "difficulty": "easy",
+              "distance_prop": 0.8054229910272299
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.1972476331942274
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "35f3b297-cf34-4831-b828-a4ee8b0e5c60": {
+          "connected_nodes": {
+            "858e0833-bbad-4e8e-9d62-6c53f6d0b95a": {
+              "duration": 42.63232420509756,
+              "difficulty": "easy",
+              "distance_prop": 0.19457701238961367
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "858e0833-bbad-4e8e-9d62-6c53f6d0b95a": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 17.705532817072605,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000010446162
+            },
+            "66fc348e-2282-42a0-a29e-ce9204901026": {
+              "duration": 42.63232420509756,
+              "difficulty": "easy",
+              "distance_prop": 0.8054229910272299
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "66fc348e-2282-42a0-a29e-ce9204901026": {
+          "connected_nodes": {
+            "20ada1f5-edc5-4a9c-a1b2-8c81a4f578fe": {
+              "duration": 4.074188096369997,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999875220931
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "66fc348e-2282-42a0-a29e-ce9204901026": {
+          "connected_nodes": {
+            "20ada1f5-edc5-4a9c-a1b2-8c81a4f578fe": {
+              "duration": 4.074188096369997,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999875220931
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "20ada1f5-edc5-4a9c-a1b2-8c81a4f578fe": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "275869c6-6fe0-485d-8d5b-418c4a3d9e85": {
+          "connected_nodes": {
+            "0b3416e2-04fe-4588-9063-4227f22818d9": {
+              "duration": 6.296776611404228,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000025542135
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0b3416e2-04fe-4588-9063-4227f22818d9": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "49a0225c-0fcf-41db-b7cd-80e9789aa038": {
+          "connected_nodes": {
+            "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.268484710977819
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+          "connected_nodes": {
+            "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.22237093454618612
+            },
+            "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+              "duration": 181.01286608715318,
+              "difficulty": "freeride",
+              "distance_prop": 1.0000000000564424
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+          "connected_nodes": {
+            "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.509144354004502
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+          "connected_nodes": {
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.41277099339427775
+            },
+            "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.12410140807743306
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "dafbb55b-d71f-4e60-877a-03bfcf32f6f0": {
+          "connected_nodes": {
+            "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.1277561704686302
+            },
+            "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+              "duration": 102.6284682068595,
+              "difficulty": "freeride",
+              "distance_prop": 0.30848035275673696
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+          "connected_nodes": {
+            "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+              "duration": 102.6284682068595,
+              "difficulty": "freeride",
+              "distance_prop": 0.6915196459990787
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+          "connected_nodes": {
+            "2fabc178-4c96-402c-8812-977db6e9558a": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.3634814055553788
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "551a1ec4-e697-4f6e-a885-59d8b54cb1a6": {
+          "connected_nodes": {
+            "017da0b9-9673-4cae-b596-f9da6011d72b": {
+              "duration": 1.7230396821205765,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000136645406
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "017da0b9-9673-4cae-b596-f9da6011d72b": {
+          "connected_nodes": {
+            "6df86b16-640d-4e2c-aefb-4676e7b29b52": {
+              "duration": 373.4422768178883,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999998715351
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "017da0b9-9673-4cae-b596-f9da6011d72b": {
+          "connected_nodes": {
+            "6df86b16-640d-4e2c-aefb-4676e7b29b52": {
+              "duration": 373.4422768178883,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999998715351
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6df86b16-640d-4e2c-aefb-4676e7b29b52": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 126.48907718365467,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000004182712
+            },
+            "665b28cb-9706-4373-b446-2cb322da1a47": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.33503104318718974
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+          "connected_nodes": {
+            "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.08490047660699122
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9d39fb3b-7914-4691-a22c-db153f5334c6": {
+          "connected_nodes": {
+            "eff044d0-7dd4-4d81-ab53-45ecac10d393": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.6380162471074081
+            },
+            "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+              "duration": 121.67146242628495,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999991983719
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "eff044d0-7dd4-4d81-ab53-45ecac10d393": {
+          "connected_nodes": {
+            "84514645-7ab8-4c5c-865d-1e0349f65514": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.04860796919336862
+            },
+            "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+              "duration": 11.982827143887278,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000006649268
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "84514645-7ab8-4c5c-865d-1e0349f65514": {
+          "connected_nodes": {
+            "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.31337578376865705
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 126.48907718365467,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000004182712
+            },
+            "665b28cb-9706-4373-b446-2cb322da1a47": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.33503104318718974
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 126.48907718365467,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000004182712
+            },
+            "665b28cb-9706-4373-b446-2cb322da1a47": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.33503104318718974
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "665b28cb-9706-4373-b446-2cb322da1a47": {
+          "connected_nodes": {
+            "3c736bd6-52b4-4215-b7b7-f226699f4f38": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.09139192997998244
+            },
+            "aef95a35-2a18-4141-a255-7851bc249876": {
+              "duration": 11.846746336984575,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000028824327
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c736bd6-52b4-4215-b7b7-f226699f4f38": {
+          "connected_nodes": {
+            "3a8f98e2-e318-4296-9747-d12e0008f782": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.006820146637784845
+            },
+            "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+              "duration": 8.360497424764574,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999929054408
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3a8f98e2-e318-4296-9747-d12e0008f782": {
+          "connected_nodes": {
+            "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.20662281067784868
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+          "connected_nodes": {
+            "151a5a81-0461-4dce-a305-3de6705b8631": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.3601340698540528
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "151a5a81-0461-4dce-a305-3de6705b8631": {
+          "connected_nodes": {
+            "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+              "duration": 44.71540484589149,
+              "difficulty": "easy",
+              "distance_prop": 0.8355445504435594
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aa527e57-a98b-459e-bb2d-16e837cd7ad4": {
+          "connected_nodes": {
+            "d0e2ee31-dde0-425a-b4c1-69be6dea8d4e": {
+              "duration": 32.840172955824535,
+              "difficulty": "novice",
+              "distance_prop": 1.0000000075624225
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d0e2ee31-dde0-425a-b4c1-69be6dea8d4e": {
+          "connected_nodes": {
+            "aa527e57-a98b-459e-bb2d-16e837cd7ad4": {
+              "duration": 120.0,
+              "difficulty": "lift",
+              "distance_prop": 1.0000000049470663
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9571c215-22cb-468d-84d5-d38cadb11f9d": {
+          "connected_nodes": {
+            "6d1651fd-6659-484a-9bf4-8895574a988b": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.3179750302581549
+            },
+            "deddde55-c80a-4dab-97cb-8670a4e3d77f": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.08093252984993671
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6d1651fd-6659-484a-9bf4-8895574a988b": {
+          "connected_nodes": {
+            "5fa70acc-5ca8-4b40-95e7-4e6b23a8344c": {
+              "duration": 124.57515729572144,
+              "difficulty": "lift",
+              "distance_prop": 0.999999997959435
+            },
+            "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.04507513851235645
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+          "connected_nodes": {
+            "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.6369498314682719
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+          "connected_nodes": {
+            "151a5a81-0461-4dce-a305-3de6705b8631": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.3601340698540528
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9d39fb3b-7914-4691-a22c-db153f5334c6": {
+          "connected_nodes": {
+            "eff044d0-7dd4-4d81-ab53-45ecac10d393": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.6380162471074081
+            },
+            "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+              "duration": 121.67146242628495,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999991983719
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "689a49b5-6b65-4d22-89ed-2fbd8a48040e": {
+          "connected_nodes": {
+            "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+              "duration": 229.4267652880251,
+              "difficulty": "intermediate",
+              "distance_prop": 0.35005927715600654
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "c9014e4b-7567-4ae2-842d-832e63a84131": {
+          "connected_nodes": {
+            "6944a019-6ecd-4329-80a3-2233002a67f1": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.07154778104911125
+            },
+            "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+              "duration": 112.2195345588101,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000008558225
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.270346519744325
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+          "connected_nodes": {
+            "7c964d0c-a347-4b57-8e2c-26a82e04b77d": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.283536587772782
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e814f99b-2add-4c48-8736-a317e7594dbc": {
+          "connected_nodes": {
+            "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.0912210672111305
+            },
+            "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9679119651338065
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+          "connected_nodes": {
+            "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.008157912654315114
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+          "connected_nodes": {
+            "17a9b011-970c-456b-95b4-d2a8f67320bd": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.02393012173153186
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "17a9b011-970c-456b-95b4-d2a8f67320bd": {
+          "connected_nodes": {
+            "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+              "duration": 261.1407887744955,
+              "difficulty": "easy",
+              "distance_prop": 1.000000000593346
+            },
+            "77a8036a-38c3-4e97-9eac-99121ed90fdc": {
+              "duration": 183.24991443881999,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7229667729186516
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e276c30a-c5bb-4225-81f8-87e40995378d": {
+          "connected_nodes": {
+            "551a1ec4-e697-4f6e-a885-59d8b54cb1a6": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.004663908172677368
+            },
+            "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+              "duration": 283.02202810729915,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999996855378
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+          "connected_nodes": {
+            "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.008157912654315114
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+          "connected_nodes": {
+            "9591cc97-bd94-4663-b2aa-f6ec8e3e955d": {
+              "duration": 150.62090205496887,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999995708267
+            },
+            "84613cbd-e0ad-436a-84db-45b70189be9c": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.2779611507037489
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9591cc97-bd94-4663-b2aa-f6ec8e3e955d": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "1db67454-67c0-451d-9046-d63da28d9fa9": {
+          "connected_nodes": {
+            "367e9c37-818d-40ba-af6d-53cc9f420d40": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.32670467581901
+            },
+            "c9014e4b-7567-4ae2-842d-832e63a84131": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.1302964181048033
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 49.79153059040901,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999985869591
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "c9014e4b-7567-4ae2-842d-832e63a84131": {
+          "connected_nodes": {
+            "6944a019-6ecd-4329-80a3-2233002a67f1": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.07154778104911125
+            },
+            "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+              "duration": 112.2195345588101,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000008558225
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.270346519744325
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "41674af5-00ce-4224-95d4-99564829191e": {
+          "connected_nodes": {
+            "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.04855077549779582
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+          "connected_nodes": {
+            "9591cc97-bd94-4663-b2aa-f6ec8e3e955d": {
+              "duration": 150.62090205496887,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999995708267
+            },
+            "84613cbd-e0ad-436a-84db-45b70189be9c": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.2779611507037489
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "84613cbd-e0ad-436a-84db-45b70189be9c": {
+          "connected_nodes": {
+            "57812da7-2a5e-492f-956d-c799ecec59f1": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.15854690510772562
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "57812da7-2a5e-492f-956d-c799ecec59f1": {
+          "connected_nodes": {
+            "23bde7cf-6213-4aa3-bae4-8f9e790ceae8": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.11429823171944235
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "23bde7cf-6213-4aa3-bae4-8f9e790ceae8": {
+          "connected_nodes": {
+            "9eadb096-3f25-479f-b9f4-94a030b32230": {
+              "duration": 3.7415770261002033,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000053810327
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b62b9a99-c492-47f0-a8d0-99b723ce50ba": {
+          "connected_nodes": {
+            "921d41ef-2d1e-409f-99ad-ca6da7aa59ab": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.18377285055516854
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 153.07027245806574,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7050890278101345
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 153.07027245806574,
+              "difficulty": "intermediate",
+              "distance_prop": 0.29491097225761337
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+          "connected_nodes": {
+            "33702b81-ff56-4bd6-8230-76a9a8de3dc9": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.011045793467720116
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+          "connected_nodes": {
+            "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.22237093454618612
+            },
+            "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+              "duration": 181.01286608715318,
+              "difficulty": "freeride",
+              "distance_prop": 1.0000000000564424
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+          "connected_nodes": {
+            "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+              "duration": 90.19415742197941,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4390426938127556
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1db67454-67c0-451d-9046-d63da28d9fa9": {
+          "connected_nodes": {
+            "367e9c37-818d-40ba-af6d-53cc9f420d40": {
+              "duration": 181.04549979592426,
+              "difficulty": "intermediate",
+              "distance_prop": 0.32670467581901
+            },
+            "c9014e4b-7567-4ae2-842d-832e63a84131": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.1302964181048033
+            },
+            "41674af5-00ce-4224-95d4-99564829191e": {
+              "duration": 49.79153059040901,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999985869591
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "41674af5-00ce-4224-95d4-99564829191e": {
+          "connected_nodes": {
+            "aa742d99-0767-4fa3-8c72-1a0fa29a97af": {
+              "duration": 202.734776088624,
+              "difficulty": "easy",
+              "distance_prop": 0.04855077549779582
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8d1ad9a0-87a8-46a1-8af4-7c5b88e1e156": {
+          "connected_nodes": {
+            "aef95a35-2a18-4141-a255-7851bc249876": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.09756719078754132
+            },
+            "a02b074a-4f9f-41b5-8803-0d7485998d67": {
+              "duration": 10.938241283511884,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999933844038
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aef95a35-2a18-4141-a255-7851bc249876": {
+          "connected_nodes": {
+            "5ac6913b-4750-46d6-8bdc-c54fba573c74": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.15016047435098104
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5ac6913b-4750-46d6-8bdc-c54fba573c74": {
+          "connected_nodes": {
+            "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.06036048931557472
+            },
+            "3a8f98e2-e318-4296-9747-d12e0008f782": {
+              "duration": 9.482093480500485,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999966575314
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+          "connected_nodes": {
+            "7cfa2203-a1a6-4a13-bb9b-3040da1951e4": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.054983927704095666
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7cfa2203-a1a6-4a13-bb9b-3040da1951e4": {
+          "connected_nodes": {
+            "6d1651fd-6659-484a-9bf4-8895574a988b": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.6369279179441826
+            },
+            "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+              "duration": 40.49314130054969,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999966909356
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6d1651fd-6659-484a-9bf4-8895574a988b": {
+          "connected_nodes": {
+            "5fa70acc-5ca8-4b40-95e7-4e6b23a8344c": {
+              "duration": 124.57515729572144,
+              "difficulty": "lift",
+              "distance_prop": 0.999999997959435
+            },
+            "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.04507513851235645
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "17a9b011-970c-456b-95b4-d2a8f67320bd": {
+          "connected_nodes": {
+            "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+              "duration": 261.1407887744955,
+              "difficulty": "easy",
+              "distance_prop": 1.000000000593346
+            },
+            "77a8036a-38c3-4e97-9eac-99121ed90fdc": {
+              "duration": 183.24991443881999,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7229667729186516
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "1903ebd4-8a0f-4e28-9de8-2aad4aa72daf": {
+          "connected_nodes": {
+            "6944a019-6ecd-4329-80a3-2233002a67f1": {
+              "duration": 52.657645816649854,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000006748393
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6944a019-6ecd-4329-80a3-2233002a67f1": {
+          "connected_nodes": {
+            "3a66565e-5e1c-43de-8ae4-81e9c85ab64b": {
+              "duration": 210.0061479551646,
+              "difficulty": "advanced",
+              "distance_prop": 0.6449156299750678
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+          "connected_nodes": {
+            "c885b040-39c1-4427-b0d7-a27c4c4c299e": {
+              "duration": 4.8481022177237,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999952607782
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "c885b040-39c1-4427-b0d7-a27c4c4c299e": {
+          "connected_nodes": {
+            "6ed217bc-b4b8-476b-9c9b-b82a034b6a90": {
+              "duration": 360.0,
+              "difficulty": "lift",
+              "distance_prop": 1.0000000001045695
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "96b1f065-378d-45bf-b815-4b9ef5283569": {
+          "connected_nodes": {
+            "84514645-7ab8-4c5c-865d-1e0349f65514": {
+              "duration": 8.533291990728058,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999982212575
+            },
+            "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11953503249085688
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "84514645-7ab8-4c5c-865d-1e0349f65514": {
+          "connected_nodes": {
+            "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.31337578376865705
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "eff044d0-7dd4-4d81-ab53-45ecac10d393": {
+          "connected_nodes": {
+            "84514645-7ab8-4c5c-865d-1e0349f65514": {
+              "duration": 279.2581089457358,
+              "difficulty": "easy",
+              "distance_prop": 0.04860796919336862
+            },
+            "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+              "duration": 11.982827143887278,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000006649268
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7416868575718014
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "927c74b1-0959-42f5-bf47-157c68631250": {
+          "connected_nodes": {
+            "96b1f065-378d-45bf-b815-4b9ef5283569": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.053877633978543095
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "96b1f065-378d-45bf-b815-4b9ef5283569": {
+          "connected_nodes": {
+            "84514645-7ab8-4c5c-865d-1e0349f65514": {
+              "duration": 8.533291990728058,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999982212575
+            },
+            "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11953503249085688
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5eaa170f-afe9-47bc-84d3-1289df517cc2": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7416868575718014
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+          "connected_nodes": {
+            "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+              "duration": 70.9536116861314,
+              "difficulty": "intermediate",
+              "distance_prop": 0.08490047660699122
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a9e02454-aeec-462e-83f8-1f50f63d9f62": {
+          "connected_nodes": {
+            "c885b040-39c1-4427-b0d7-a27c4c4c299e": {
+              "duration": 4.8481022177237,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999952607782
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f3522d46-cd97-4d7b-aa65-e249036ffd45": {
+          "connected_nodes": {
+            "8d1ad9a0-87a8-46a1-8af4-7c5b88e1e156": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.0395411887900471
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8d1ad9a0-87a8-46a1-8af4-7c5b88e1e156": {
+          "connected_nodes": {
+            "aef95a35-2a18-4141-a255-7851bc249876": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.09756719078754132
+            },
+            "a02b074a-4f9f-41b5-8803-0d7485998d67": {
+              "duration": 10.938241283511884,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999933844038
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a02b074a-4f9f-41b5-8803-0d7485998d67": {
+          "connected_nodes": {
+            "9571c215-22cb-468d-84d5-d38cadb11f9d": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.20061516131789858
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9571c215-22cb-468d-84d5-d38cadb11f9d": {
+          "connected_nodes": {
+            "6d1651fd-6659-484a-9bf4-8895574a988b": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.3179750302581549
+            },
+            "deddde55-c80a-4dab-97cb-8670a4e3d77f": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.08093252984993671
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "deddde55-c80a-4dab-97cb-8670a4e3d77f": {
+          "connected_nodes": {
+            "9e465f15-4841-4d4e-bb16-b7ae57e2d92b": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.28685676868974885
+            },
+            "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.5954573813614938
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+          "connected_nodes": {
+            "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.048273812234075945
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+          "connected_nodes": {
+            "a27b4170-5ebd-4883-8205-553252bc2d41": {
+              "duration": 2.5772576670816894,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999781433677
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+          "connected_nodes": {
+            "927c74b1-0959-42f5-bf47-157c68631250": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5435819416410137
+            },
+            "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+              "duration": 120.25911152456676,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999997771782
+            },
+            "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+              "duration": 12.253839773366895,
+              "difficulty": "advanced",
+              "distance_prop": 0.6206912812425224
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+          "connected_nodes": {
+            "f3522d46-cd97-4d7b-aa65-e249036ffd45": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.3621381741434707
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d249ebe5-6eb1-44b0-8c94-2587508148d7": {
+          "connected_nodes": {
+            "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.02359994873660714
+            },
+            "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+              "duration": 12.253839773366895,
+              "difficulty": "advanced",
+              "distance_prop": 0.37930872631090584
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2db807ff-06d6-4229-a3a2-93e3d318c586": {
+          "connected_nodes": {
+            "927c74b1-0959-42f5-bf47-157c68631250": {
+              "duration": 203.55381600634342,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5435819416410137
+            },
+            "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+              "duration": 120.25911152456676,
+              "difficulty": "advanced",
+              "distance_prop": 0.9999999997771782
+            },
+            "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+              "duration": 12.253839773366895,
+              "difficulty": "advanced",
+              "distance_prop": 0.6206912812425224
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "6582eb8d-3465-4e49-8650-bdce4a6d6ff4": {
+          "connected_nodes": {
+            "905dcf76-0e61-4326-a556-8323e1ffaac1": {
+              "duration": 305.26114011902655,
+              "difficulty": "advanced",
+              "distance_prop": 0.35623112766905035
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e7b785b2-f4fa-4f9d-a07d-aba85e449e74": {
+          "connected_nodes": {
+            "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+              "duration": 31.819463033090294,
+              "difficulty": "easy",
+              "distance_prop": 1.000000005393523
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "78719165-ebc2-4b34-a7f8-9f50a340e535": {
+          "connected_nodes": {
+            "87181d20-6001-4dca-b2b0-28d48e4fc6ca": {
+              "duration": 126.48907718365467,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000004182712
+            },
+            "665b28cb-9706-4373-b446-2cb322da1a47": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.33503104318718974
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f2141652-4d02-45e0-94f4-67a5ebfc18c6": {
+          "connected_nodes": {
+            "151a5a81-0461-4dce-a305-3de6705b8631": {
+              "duration": 44.71540484589149,
+              "difficulty": "easy",
+              "distance_prop": 0.16445544811776053
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "151a5a81-0461-4dce-a305-3de6705b8631": {
+          "connected_nodes": {
+            "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+              "duration": 44.71540484589149,
+              "difficulty": "easy",
+              "distance_prop": 0.8355445504435594
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5be6dabe-ca75-44f6-93f2-99ee5f6df4ed": {
+          "connected_nodes": {
+            "4cb9e6e8-7bf3-4ace-bc3a-901fbc78f10a": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.14761390387025194
+            },
+            "8ca8981f-d0a0-4d31-804c-873d3080eb38": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.633693503939176
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c2168e4-31cf-4b62-bf9f-f9415a45c595": {
+          "connected_nodes": {
+            "57e61f45-2e1b-4b8d-b935-043a7e4f4f18": {
+              "duration": 7.8829841980353015,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000044487525
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "57e61f45-2e1b-4b8d-b935-043a7e4f4f18": {
+          "connected_nodes": {
+            "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4109963994789908
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9e465f15-4841-4d4e-bb16-b7ae57e2d92b": {
+          "connected_nodes": {
+            "f6e45d4b-224c-4159-aa38-4f1c9e99a8c5": {
+              "duration": 13.585416906731751,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000040723918
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f6e45d4b-224c-4159-aa38-4f1c9e99a8c5": {
+          "connected_nodes": {
+            "3c2168e4-31cf-4b62-bf9f-f9415a45c595": {
+              "duration": 205.4210235781545,
+              "difficulty": "intermediate",
+              "distance_prop": 0.21794065891172132
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8cbcb538-2c6c-4c3d-a356-eadba8a2a699": {
+          "connected_nodes": {
+            "a27b4170-5ebd-4883-8205-553252bc2d41": {
+              "duration": 2.5772576670816894,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999781433677
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a27b4170-5ebd-4883-8205-553252bc2d41": {
+          "connected_nodes": {
+            "f2141652-4d02-45e0-94f4-67a5ebfc18c6": {
+              "duration": 120.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999999983596837
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8d1ad9a0-87a8-46a1-8af4-7c5b88e1e156": {
+          "connected_nodes": {
+            "aef95a35-2a18-4141-a255-7851bc249876": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.09756719078754132
+            },
+            "a02b074a-4f9f-41b5-8803-0d7485998d67": {
+              "duration": 10.938241283511884,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999933844038
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a02b074a-4f9f-41b5-8803-0d7485998d67": {
+          "connected_nodes": {
+            "9571c215-22cb-468d-84d5-d38cadb11f9d": {
+              "duration": 279.4042273457086,
+              "difficulty": "advanced",
+              "distance_prop": 0.20061516131789858
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "665b28cb-9706-4373-b446-2cb322da1a47": {
+          "connected_nodes": {
+            "3c736bd6-52b4-4215-b7b7-f226699f4f38": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.09139192997998244
+            },
+            "aef95a35-2a18-4141-a255-7851bc249876": {
+              "duration": 11.846746336984575,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000028824327
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aef95a35-2a18-4141-a255-7851bc249876": {
+          "connected_nodes": {
+            "5ac6913b-4750-46d6-8bdc-c54fba573c74": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.15016047435098104
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7cfa2203-a1a6-4a13-bb9b-3040da1951e4": {
+          "connected_nodes": {
+            "6d1651fd-6659-484a-9bf4-8895574a988b": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.6369279179441826
+            },
+            "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+              "duration": 40.49314130054969,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999966909356
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ad1d34c6-0efd-4732-9ca2-ad95d64fc1c8": {
+          "connected_nodes": {
+            "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+              "duration": 96.22666094715525,
+              "difficulty": "easy",
+              "distance_prop": 0.6369498314682719
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3c736bd6-52b4-4215-b7b7-f226699f4f38": {
+          "connected_nodes": {
+            "3a8f98e2-e318-4296-9747-d12e0008f782": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.006820146637784845
+            },
+            "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+              "duration": 8.360497424764574,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999929054408
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+          "connected_nodes": {
+            "7cfa2203-a1a6-4a13-bb9b-3040da1951e4": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.054983927704095666
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5ac6913b-4750-46d6-8bdc-c54fba573c74": {
+          "connected_nodes": {
+            "cd9e1de8-936b-4170-b6de-2bdaca873637": {
+              "duration": 128.48541319029783,
+              "difficulty": "easy",
+              "distance_prop": 0.06036048931557472
+            },
+            "3a8f98e2-e318-4296-9747-d12e0008f782": {
+              "duration": 9.482093480500485,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999966575314
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3a8f98e2-e318-4296-9747-d12e0008f782": {
+          "connected_nodes": {
+            "8b2dbb65-cd68-4c4b-8af1-a3425aed00d0": {
+              "duration": 401.7638843241288,
+              "difficulty": "easy",
+              "distance_prop": 0.20662281067784868
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e4e3ef67-c228-49a1-84c7-30aeed1fd65d": {
+          "connected_nodes": {
+            "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11916998073376929
+            },
+            "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+              "duration": 42.65983011816438,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000011397336
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+          "connected_nodes": {
+            "43e99bd2-55b3-43d2-9a6e-48417a124b75": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.13270138465855233
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7c37eade-9ae8-439d-bc6b-4b8fc47f0a3d": {
+          "connected_nodes": {
+            "e4e3ef67-c228-49a1-84c7-30aeed1fd65d": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.05574209662788273
+            },
+            "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+              "duration": 30.746254666843008,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999956323734
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b6f333ae-6226-4791-bec3-a6c40bd980e5": {
+          "connected_nodes": {
+            "9b5cb4cc-358a-408d-bb83-66f23aba4ecb": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.17157284408144075
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e2af199b-d97d-42ba-b700-8483bb2ae0cd": {
+          "connected_nodes": {
+            "233e5f0d-99bc-40bf-a411-cbeacaf0c581": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.08857228430340658
+            },
+            "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+              "duration": 15.928161732176152,
+              "difficulty": "freeride",
+              "distance_prop": 0.9999999995371514
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "920ddd05-02db-43c5-94f5-c8d7f3eaeb1a": {
+          "connected_nodes": {
+            "6fab2afc-f4f6-47b2-a6f7-0eee9bf8765a": {
+              "duration": 102.6284682068595,
+              "difficulty": "freeride",
+              "distance_prop": 0.6915196459990787
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "5499716a-d274-4806-9d58-b7a8145277f8": {
+          "connected_nodes": {
+            "b2fc6381-7592-4fde-8d9d-6f5225d80b17": {
+              "duration": 22.41632302172282,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999967372231
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b2fc6381-7592-4fde-8d9d-6f5225d80b17": {
+          "connected_nodes": {
+            "dafbb55b-d71f-4e60-877a-03bfcf32f6f0": {
+              "duration": 247.11873329124407,
+              "difficulty": "intermediate",
+              "distance_prop": 0.06485239564382
+            },
+            "9af75058-7992-44b8-9648-9c581100abe0": {
+              "duration": 149.5870791321331,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000008059236
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8ca8981f-d0a0-4d31-804c-873d3080eb38": {
+          "connected_nodes": {
+            "5ba20322-cadd-4271-a6b8-1838007405f8": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.057106744055340955
+            },
+            "f979da31-d35e-472f-8066-a07e5788b2f3": {
+              "duration": 16.785432465636344,
+              "difficulty": "advanced",
+              "distance_prop": 1.000000000401188
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f979da31-d35e-472f-8066-a07e5788b2f3": {
+          "connected_nodes": {
+            "412dc113-4da2-4f8b-8abf-ab308e36bacd": {
+              "duration": 82.10196365470448,
+              "difficulty": "advanced",
+              "distance_prop": 0.16797842292645954
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 60.1568123428001,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999995506885
+            },
+            "a31e47d1-55e9-472d-8505-090989e74490": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3936713128121848
+            },
+            "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+              "duration": 31.139602427731877,
+              "difficulty": "easy",
+              "distance_prop": 0.999999998349535
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a31e47d1-55e9-472d-8505-090989e74490": {
+          "connected_nodes": {
+            "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.6063286874530845
+            },
+            "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+              "duration": 64.29122831791871,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000005957286
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+          "connected_nodes": {
+            "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.509144354004502
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "758a601e-7c36-4d73-bf22-318a5b46853d": {
+          "connected_nodes": {
+            "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+              "duration": 15.127346373906578,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999984032196
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.11612383547795042
+            },
+            "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07515021380832163
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 212.44638657897372,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000003389173
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5af54d8-26d0-44ab-8f7d-9ba25f465d89": {
+          "connected_nodes": {
+            "2fcdde75-0894-42c9-898b-9fa9c68e1db2": {
+              "duration": 429.3345528033518,
+              "difficulty": "easy",
+              "distance_prop": 0.11612383547795042
+            },
+            "e3c85acf-78cf-41b7-9a95-c800ec3b8882": {
+              "duration": 299.6085867765591,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07515021380832163
+            },
+            "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+              "duration": 212.44638657897372,
+              "difficulty": "advanced",
+              "distance_prop": 1.0000000003389173
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4b6c3e8f-6f16-415f-8b45-30d8ceb1d4f3": {
+          "connected_nodes": {
+            "ad4b8af6-a3c2-43fc-aab4-af21500f8928": {
+              "duration": 153.07027245806574,
+              "difficulty": "intermediate",
+              "distance_prop": 0.29491097225761337
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a31e47d1-55e9-472d-8505-090989e74490": {
+          "connected_nodes": {
+            "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.6063286874530845
+            },
+            "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+              "duration": 64.29122831791871,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000005957286
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b537aa61-84ce-43ea-b3e0-283e585a9a1b": {
+          "connected_nodes": {
+            "404d46b1-7438-44b0-ab70-e502896aa8a5": {
+              "duration": 130.68615692662152,
+              "difficulty": "easy",
+              "distance_prop": 0.41277099339427775
+            },
+            "a9ca409c-c1fa-4430-be36-d184c47ab5da": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.12410140807743306
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e5ea81f0-224a-463c-b3b9-7a236b91c4c9": {
+          "connected_nodes": {
+            "39365d47-e687-4f98-b13c-07847a7cc3d4": {
+              "duration": 251.44753221407714,
+              "difficulty": "intermediate",
+              "distance_prop": 0.5037609960553572
+            },
+            "70047f81-d177-4aba-a246-0a5853a582a6": {
+              "duration": 9.693863795575485,
+              "difficulty": "easy",
+              "distance_prop": 0.9999999975554245
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "70047f81-d177-4aba-a246-0a5853a582a6": {
+          "connected_nodes": {
+            "be5dcaea-0332-4343-99ef-8d63ac308c80": {
+              "duration": 248.1790632022216,
+              "difficulty": "easy",
+              "distance_prop": 0.6087052997307113
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "226580bb-edeb-4dbe-a7a4-61ebe588b637": {
+          "connected_nodes": {
+            "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.03750501226046472
+            },
+            "ead27218-0075-49af-81cc-9d2613d061ef": {
+              "duration": 7.234421885901006,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999964396572
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ead27218-0075-49af-81cc-9d2613d061ef": {
+          "connected_nodes": {
+            "06d632e6-62a5-4572-804b-9e588abd555e": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07877631761208255
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "70b78396-a201-4b2c-9fc7-d8ee0c1db3d6": {
+          "connected_nodes": {
+            "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.25656868396634486
+            },
+            "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.39228261040652906
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+          "connected_nodes": {
+            "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.31116784748658555
+            },
+            "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+              "duration": 4.143297940057385,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999842877577
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+          "connected_nodes": {
+            "ead27218-0075-49af-81cc-9d2613d061ef": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.22272944119868238
+            },
+            "4646755c-26ab-4d58-8754-38f863fcd159": {
+              "duration": 3.172606176539269,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000015960847
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ead27218-0075-49af-81cc-9d2613d061ef": {
+          "connected_nodes": {
+            "06d632e6-62a5-4572-804b-9e588abd555e": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07877631761208255
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "06d632e6-62a5-4572-804b-9e588abd555e": {
+          "connected_nodes": {
+            "0c56b65d-6bf1-4d68-a7c6-28d3dc390345": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.13075771103769154
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0c56b65d-6bf1-4d68-a7c6-28d3dc390345": {
+          "connected_nodes": {
+            "cac40de9-907a-4378-acef-e24efed5ed7d": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.7206466657585799
+            },
+            "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+              "duration": 14.390574514990595,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999955328961
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+          "connected_nodes": {
+            "ead27218-0075-49af-81cc-9d2613d061ef": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.22272944119868238
+            },
+            "4646755c-26ab-4d58-8754-38f863fcd159": {
+              "duration": 3.172606176539269,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000015960847
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4646755c-26ab-4d58-8754-38f863fcd159": {
+          "connected_nodes": {
+            "df573ff4-9f22-4e52-842e-0af1520bcebf": {
+              "duration": 240.0,
+              "difficulty": "lift",
+              "distance_prop": 0.9999900480881562
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "0c56b65d-6bf1-4d68-a7c6-28d3dc390345": {
+          "connected_nodes": {
+            "cac40de9-907a-4378-acef-e24efed5ed7d": {
+              "duration": 212.42130077979206,
+              "difficulty": "easy",
+              "distance_prop": 0.7206466657585799
+            },
+            "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+              "duration": 14.390574514990595,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999955328961
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+          "connected_nodes": {
+            "7c37eade-9ae8-439d-bc6b-4b8fc47f0a3d": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.44749507940612226
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a076c71b-c7eb-4bbd-a397-20b7762b1afc": {
+          "connected_nodes": {
+            "e276c30a-c5bb-4225-81f8-87e40995378d": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.030358624907783096
+            },
+            "f7983582-ae83-43fe-a3d7-4ed111e12802": {
+              "duration": 12.603855634240176,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000002661835
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "f7983582-ae83-43fe-a3d7-4ed111e12802": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "77a8036a-38c3-4e97-9eac-99121ed90fdc": {
+          "connected_nodes": {
+            "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+              "duration": 56.80626738317367,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000015639376
+            },
+            "c10da214-32b9-4651-9d0a-f78bff052c3d": {
+              "duration": 183.24991443881999,
+              "difficulty": "intermediate",
+              "distance_prop": 0.27703322774708944
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "17a9b011-970c-456b-95b4-d2a8f67320bd": {
+          "connected_nodes": {
+            "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+              "duration": 261.1407887744955,
+              "difficulty": "easy",
+              "distance_prop": 1.000000000593346
+            },
+            "77a8036a-38c3-4e97-9eac-99121ed90fdc": {
+              "duration": 183.24991443881999,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7229667729186516
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "77a8036a-38c3-4e97-9eac-99121ed90fdc": {
+          "connected_nodes": {
+            "d0aa0058-cc86-4031-b7fc-ee97c65e1cfb": {
+              "duration": 56.80626738317367,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000015639376
+            },
+            "c10da214-32b9-4651-9d0a-f78bff052c3d": {
+              "duration": 183.24991443881999,
+              "difficulty": "intermediate",
+              "distance_prop": 0.27703322774708944
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "c10da214-32b9-4651-9d0a-f78bff052c3d": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "1e535e32-7f4b-4cf1-a655-1a60742994eb": {
+          "connected_nodes": {
+            "372656a0-afe0-4b4f-813d-65278688bc34": {
+              "duration": 42.703171802895746,
+              "difficulty": "easy",
+              "distance_prop": 0.999999999418113
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "372656a0-afe0-4b4f-813d-65278688bc34": {
+          "connected_nodes": {
+            "e63a680b-418d-4b1e-ba1d-a9278cdac114": {
+              "duration": 527.1152944708194,
+              "difficulty": "intermediate",
+              "distance_prop": 0.7876124634031297
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "aafb2734-0995-415d-a92e-6ba23a1197a8": {
+          "connected_nodes": {
+            "3ef65e56-5140-4470-bbb3-c55290e8d8bb": {
+              "duration": 69.0429978128975,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999976539762
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "3ef65e56-5140-4470-bbb3-c55290e8d8bb": {
+          "connected_nodes": {
+            "226580bb-edeb-4dbe-a7a4-61ebe588b637": {
+              "duration": 177.05212783595326,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11605024995845835
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "358ad0db-efb4-4bbc-9f94-00c816f38df4": {
+          "connected_nodes": {
+            "25a457dc-3683-488b-9d99-92b3133f32de": {
+              "duration": 306.1713578096781,
+              "difficulty": "easy",
+              "distance_prop": 0.08888522478692251
+            },
+            "7a6dcd83-37e1-4a5d-9ccf-338cf4deec93": {
+              "duration": 5.832912451499029,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000015400934
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "7a6dcd83-37e1-4a5d-9ccf-338cf4deec93": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "e63a680b-418d-4b1e-ba1d-a9278cdac114": {
+          "connected_nodes": {
+            "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+              "duration": 14.581974523504599,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999990458883
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "32d57571-9f5a-4f7b-8510-b79c45696a2e": {
+          "connected_nodes": {
+            "17a9b011-970c-456b-95b4-d2a8f67320bd": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.02393012173153186
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 60.1568123428001,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999995506885
+            },
+            "a31e47d1-55e9-472d-8505-090989e74490": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3936713128121848
+            },
+            "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+              "duration": 31.139602427731877,
+              "difficulty": "easy",
+              "distance_prop": 0.999999998349535
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+          "connected_nodes": {
+            "1778f5bb-a5e0-412f-9022-39336550aa7f": {
+              "duration": 80.37325361693809,
+              "difficulty": "easy",
+              "distance_prop": 0.22237093454618612
+            },
+            "a87c8d05-8a6a-479d-acf4-e8da785c1a5c": {
+              "duration": 181.01286608715318,
+              "difficulty": "freeride",
+              "distance_prop": 1.0000000000564424
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "31ddb26c-931a-4276-a5d4-2ef5d2d4dbf2": {
+          "connected_nodes": {
+            "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+              "duration": 9.242550264315737,
+              "difficulty": "easy",
+              "distance_prop": 1.0000000059223406
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "729d06ca-fc4e-4de5-b290-5499c60922d7": {
+          "connected_nodes": {
+            "02415b31-6546-40a5-b362-7fb2228c6cb6": {
+              "duration": 60.1568123428001,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999995506885
+            },
+            "a31e47d1-55e9-472d-8505-090989e74490": {
+              "duration": 53.27080536584112,
+              "difficulty": "intermediate",
+              "distance_prop": 0.3936713128121848
+            },
+            "31701fd7-1c19-48a8-90b3-c73a312e9f29": {
+              "duration": 31.139602427731877,
+              "difficulty": "easy",
+              "distance_prop": 0.999999998349535
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e1f72e38-5cb7-4cfa-a802-0e3168a873fc": {
+          "connected_nodes": {
+            "e5acfef5-826e-4297-972b-99377e5f41ea": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.1344982371590003
+            },
+            "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+              "duration": 42.5914475879764,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000013485726
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "9d847a34-48cd-4be6-b649-2e585e9fc34b": {
+          "connected_nodes": {
+            "a3d10ff7-bff9-4ba0-86c1-d55264500113": {
+              "duration": 288.699776865681,
+              "difficulty": "easy",
+              "distance_prop": 0.02266032696255914
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "8d042dcf-d887-46f5-95fc-5c2c9d115e6a": {
+          "connected_nodes": {
+            "e6ea4b45-875f-4d91-b71f-3c0554ce4dc2": {
+              "duration": 282.6160907725211,
+              "difficulty": "intermediate",
+              "distance_prop": 0.4644550139326488
+            },
+            "e814f99b-2add-4c48-8736-a317e7594dbc": {
+              "duration": 86.9846769379006,
+              "difficulty": "intermediate",
+              "distance_prop": 1.0000000017203736
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "e814f99b-2add-4c48-8736-a317e7594dbc": {
+          "connected_nodes": {
+            "0fda62ca-13a2-40a1-a32f-1f9d5bdbc0a1": {
+              "duration": 316.36290999482634,
+              "difficulty": "intermediate",
+              "distance_prop": 0.0912210672111305
+            },
+            "0c867fa5-f0fe-4e27-8678-c1d3f789f8fc": {
+              "duration": 417.45526300941304,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9679119651338065
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "2e5f398f-617a-4d82-9a41-544f818e9ee2": {
+          "connected_nodes": {
+            "ad863aa3-d0e3-406b-b232-37fb570b2a8a": {
+              "duration": 73.08583304056573,
+              "difficulty": "intermediate",
+              "distance_prop": 0.0459119014431899
+            },
+            "ce02c221-1595-4976-9a18-168032d09b23": {
+              "duration": 31.71433691028388,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999997506328
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "ce02c221-1595-4976-9a18-168032d09b23": {
+          "connected_nodes": {}
+        }
+      }
+    },
+    {
+      "node": {
+        "90c010e5-15ec-46a5-84b1-2191cc3163ec": {
+          "connected_nodes": {
+            "70b78396-a201-4b2c-9fc7-d8ee0c1db3d6": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.11570884030133059
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "70b78396-a201-4b2c-9fc7-d8ee0c1db3d6": {
+          "connected_nodes": {
+            "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.25656868396634486
+            },
+            "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.39228261040652906
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+          "connected_nodes": {
+            "b0a258a7-3df9-46f3-8d01-24e0615267d4": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.09861193203116621
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "b0a258a7-3df9-46f3-8d01-24e0615267d4": {
+          "connected_nodes": {
+            "404a89a4-11eb-41a8-bff5-176f39e3c9ba": {
+              "duration": 132.77699692452524,
+              "difficulty": "intermediate",
+              "distance_prop": 0.07331861546361859
+            },
+            "06d632e6-62a5-4572-804b-9e588abd555e": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.39339662441927425
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "06d632e6-62a5-4572-804b-9e588abd555e": {
+          "connected_nodes": {
+            "0c56b65d-6bf1-4d68-a7c6-28d3dc390345": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.13075771103769154
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "a73e7022-73a8-4f13-83c8-ba71bcb3acd7": {
+          "connected_nodes": {
+            "73cde2e6-512d-4143-ae0e-5a62f7035ee6": {
+              "duration": 26.584658869691168,
+              "difficulty": "intermediate",
+              "distance_prop": 0.31116784748658555
+            },
+            "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+              "duration": 4.143297940057385,
+              "difficulty": "intermediate",
+              "distance_prop": 0.9999999842877577
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "1555fd74-d077-4a87-91f3-ee0a515a28ff": {
+          "connected_nodes": {
+            "b0a258a7-3df9-46f3-8d01-24e0615267d4": {
+              "duration": 20.466393998555322,
+              "difficulty": "intermediate",
+              "distance_prop": 0.09861193203116621
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "4669b820-119d-4ccd-8ddc-2559d09386b0": {
+          "connected_nodes": {
+            "cac40de9-907a-4378-acef-e24efed5ed7d": {
+              "duration": 47.506982447793845,
+              "difficulty": "easy",
+              "distance_prop": 0.6073362722125178
+            },
+            "d934ac24-c68a-4908-9c94-936a45c3d037": {
+              "duration": 89.79552941319074,
+              "difficulty": "intermediate",
+              "distance_prop": 1.000000000563989
+            }
+          }
+        }
+      }
+    },
+    {
+      "node": {
+        "d934ac24-c68a-4908-9c94-936a45c3d037": {
+          "connected_nodes": {
+            "b266a0be-e1d0-4b3b-855c-fd067a7319aa": {
+              "duration": 635.0828654870251,
+              "difficulty": "easy",
+              "distance_prop": 0.19342355723001767
+            }
+          }
+        }
+      }
+    }
+  ]
+}
