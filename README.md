@@ -72,3 +72,12 @@ Contains the each node and all nodes it is connected with including the duration
     ]
 }
 ```
+
+### Data processing steps
+#### Data cleaning runs
+* Remove runs with no elevation profile
+* Remove runs with difficulty level not in novice, easy, intermediate, or advanced
+* Remove runs that are not downhill
+* If runs have no name but just a number call them 'Ski run ```digit```'
+
+#### Data cleaning lifts

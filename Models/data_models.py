@@ -92,12 +92,12 @@ def GetConnections(RunsLiftsGraph, start_end_points):
     return RunsLiftsGraph
 
 
-def CreateRunsLiftsGraph(RunsLiftsGraph):
+def CreateRunsLiftsGraph(RunsLiftsGraph, epsg):
     RunsLiftsGraph_tmp = {"type": "FeatureCollection"}
     features = []
 
     project = pyproj.Transformer.from_proj(
-        pyproj.Proj(init='epsg:27561'), # source
+        pyproj.Proj(init=f'epsg:{epsg}'), # source
         pyproj.Proj(init='epsg:4326')) # destination
 
     for run in RunsLiftsGraph:
@@ -132,6 +132,7 @@ def CreateRunsLiftsGraph(RunsLiftsGraph):
         else:
             properties["status"] = points[0].get("status")
         properties["duration"] = points[0].get("duration")
+        properties["distance"] = points[0].get("distance")
         properties["point_id"] = point_ids
         feature["properties"] = properties
         feature["geometry"] = geometry
@@ -219,6 +220,7 @@ def CreateNodesGraph(RunsLiftsNodesGraph):
 
         edge = {
             "duration": node.get("duration"),
+            "distance": node.get("distance"),
             "difficulty": difficulty,
             "distance_prop": node.get("distance_prop")
         }
@@ -245,14 +247,16 @@ def CreateNodesGraph(RunsLiftsNodesGraph):
 
     for RunLift in RunsLiftsNodesGraph:
         nodes = list(RunLift.values())[0]
+        used_nodes = []
 
         for node in nodes:
-            connections = {}
-            connections = get_matching_nodes(RunsLiftsNodesGraph, connections, node.get("point_id"))
-            NodesGraph.append({"node":
-                                {node.get("point_id"):
-                                    {"connected_nodes": connections}}
-                                })
-            #NodesGraph[node.get("point_id")] = connections
-            #used_nodes.append(node.get("point_id"))
+            if node not in used_nodes:
+                connections = {}
+                connections = get_matching_nodes(RunsLiftsNodesGraph, connections, node.get("point_id"))
+                NodesGraph.append({"node":
+                                    {node.get("point_id"):
+                                        {"connected_nodes": connections}}
+                                    })
+                #NodesGraph[node.get("point_id")] = connections
+                used_nodes.append(node.get("point_id"))
     return NodesGraph
