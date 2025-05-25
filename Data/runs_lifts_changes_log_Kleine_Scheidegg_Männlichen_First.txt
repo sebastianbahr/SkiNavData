@@ -1,0 +1,703 @@
+### This text file logs all manuall adjustemnts carried out on runs and lifts ###
+
+## Ski resort: Kleine Scheidegg - Männlichen - First - runs ##
+https://www.outdooractive.com/de/skiresort/berner-alpen/grindelwald-first/1648395/#dmlb=1
+
+ordered_ids = ['5665cff82888a30ed88d3e310c4a6fbcceb18d73',
+                'fd03dc94052773bf606dba5c6d8111da5c2dc844',
+                'f163dfc46a19f308e14d8f922b12d2ca1e49ad30',
+                '9ae25febae659bf9f14cc4e9cc3dbfa0d7d623ea',
+                '53fc41214d0cdfe4c3c6b1561716c2fc9470d495',
+                '348fd6573916f02c9065f44a4642575793b025d8']
+new_name = 'Schreckfeld-Bort' # Schreckfeld-Bort + First-Schreckfeld + Schreckfeld-Bort + Schreckfeld-Bort, + Schreckfeld-Egg
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['531a4f2c1d8fcee80845d3ce76bf6e48fb312b61',
+                '8bdd4a8044ec21c4dbffe102b34c1b237eb6a553',
+                '33c5246f44a435f494f8a87b2f289ded39a7c6cc',
+                '1f6ff4a1e8215846440d2928861cc59187addeeb',
+                '35fb78564502ebc1667294bc81bcfa470bcc735a',
+                'dcc5c183199adaefbdb925016d465f281f598c0c',
+                '34e73ca33d98dc12e234b488c3a16c7198965b67',
+                ]
+new_name = 'Läger' # Ski run 6 + Ritas Speedway, Easy
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['2572f70a9fd3ebb9acf5294db2f962fb04a6a7a2']
+
+new_name = 'Ski run' # Ski run 6
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['d64ff312ccad5eaeaa8ac8063b87bb0c07ff1d31',
+                ]
+new_name = 'Ski run' # Ski run 6
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['df9ba948b1465388237e7a72c1469caf1e7dd3f1',
+                ]
+new_name = 'Ski run' # Ski run 6
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['d6e778dcf9025274bef318e5deb91e4ba5700268',
+               'e87fb1b06db8ec96695babfed3748f1a40774c6b',
+               'a2f77f905ae0f513a186d1fa07017a432949e185'
+                ]
+new_name = 'Stählisboden-Kirche' # Stählisboden-Kirche + Mühlebach Trail,  Stählisboden-Kirche
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f0eaed61f9b9b18d86a3fd8908f30aac75e9fc02']
+new_name = 'Ski run' # Mühlebach Trail
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['29a79a9cd8f6325039840c41d80639425008ac6d',
+                '24d228b1294cd0d0b4466d39fd4998370b46ba01',
+                '4d011acf861bf9d5c057dcdde6199d046a91f388'
+                ]
+new_name = 'Furggi'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['2fbec9d009a4a0542be17f9f4fddcb48c9620d9b',
+                '7bb51fd99aa4fe12b06df33fb3d510c7696ea6a3'
+                
+                ]
+new_name = 'Ski run' # Furggi
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['b12af586370fc6a95e30d3a2dd81db92619d4353'
+                
+                ]
+new_name = 'Ski run' # Hambiel
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['798b65d46e7b3db1e59fbd5dc7718e446a844daa'
+                
+                ]
+new_name = 'Ski run' # Gemsberg
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['782e5805dd7da1c6922e8cd1b34b29bb7e01e021'
+                
+                ]
+new_name = 'Ski run' # Gemsberg
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['2ab2eafe5e54bba1b5f9bf48f53d8dd11c9ef8e1'
+                
+                ]
+new_name = 'Ski run' # Berme
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9e73290f067c21f9a3eb28fc02d7f4b9fdb17dde',
+                '79b1bc3625b96f396b84698e249e512f2f6e1c53'
+                ]
+new_name = 'Lauberhorn Weltcup-Abfahrt'
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9fd1aaf4656702eb52c1bb932f338aefed001e3f'
+                
+                ]
+new_name = 'Ski run' # Lauberhorn Weltcup-Abfahrt
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ad0766b1ff3145a70659910edbcf725a040eda14'
+                ]
+new_name = 'Ski run' # Lauberhorn
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['913bc3e891aca63371d320846ca3284f1c3a23f7'
+                ]
+new_name = 'Ski run' # Punchball
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['5bbfe0325eb418193c0651f701a0ae71c09e6f08'
+                ]
+new_name = 'Ski run' # Punchball
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['6f15155e052fdb7ea0679791dcecdd2e346a124c'
+                ]
+new_name = 'Ski run' # Punchball
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['339aaf9eacedf0b7e8dcd9f7c6d71ad914c7f3e0'
+                ]
+new_name = 'Ski run' # Black - Rock
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['29466dd43d29a4af302f2ca33e691b722031b34a']
+
+new_name = 'Ski run' # Jungfrau Eiger-Run, Black - Rock
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['b718bb7fee5f2b82d048d1bcd2a3e38010f01d4c'
+                ]
+new_name = 'Männlichen'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ordered_ids = ['e204a1f93de313ad6a922498646b0ac74c1bef97',
+                            '3658b202df7adc5c456e637c7e768d1519524cd3']
+new_name = 'Holenstein - Grindelwald Grund'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1f86b4f35e9bf8e5604065c136cf027c8bc9a0f5'
+                ]
+new_name = 'Ski run' # Ski run 3
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['65b2efd93bcbcbbee40a73e43529d8902764db8d'
+                ]
+new_name = 'Ski run' # Ski run 3
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['5544d0147898b125d5085f8e203d932a5c62272d'
+                ]
+new_name = 'Ski run' # Ski run 3
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['15bff308b56b1f9f6175a276af9c51e510263e4a'
+                ]
+new_name = 'Ski run' # Ski run 3
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['4295a9dafc16b7c8199c42c95ec816c7d839f9a9'
+                ]
+new_name = 'Wasserwendi' # Ski run 2
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['034ccb40a8c1a27056decf1b6c4ebc96e5d42f57'
+                ]
+new_name = 'Gratbort'
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['6e109126b4670a55b36f06e0295edbd5cd4c92b6'
+                ]
+new_name = 'Ski run' # Allmend - Wengen Dorf
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['2e328807f8fbb60c9d52a5dd288a6136d67d12fc']
+
+new_name = 'Ski run' # Kleine Scheidegg-Wengen, Allmend - Wengen Dorf
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9bfa2079f65bfef34d4493025c36250169f21aae'
+                ]
+new_name = 'Ski run' # Lauberhorn Weltcup Slalom
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['90982a46e20932c488faa56a3f579008bba0dd52'
+                ]
+new_name = 'Ski run' # Engi
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['117d03ad159f1bafd9f9fd0ee5f8d159f37aad01',
+               '3c27fe4fba2da32f8c19a15e35b242d9d76326bc']
+new_name = 'Engi'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['a7c01c7fb2f5c217a59f0ffd49afe8e274f865f5']
+
+new_name = 'Ski run'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['0eed2df940416d1d3a10d3989684a3c61277959e']
+
+new_name = 'Ski run' # Kleine Scheidegg - Arven
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f48727fe2ecca004190add3f6601a6034be808db']
+
+new_name = 'Ski run' # Kleine Scheidegg - Arven
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ec3f0a23024aa10246aa2eb502601da0d9306ba0']
+
+new_name = 'Kleine Scheidegg - Arven 21b'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3bb09957cb04b82a6f0156b0b3ef4cc9ee6a8d91']
+
+new_name = 'Kleine Scheidegg - Arven 21a'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['cd37856f08e4d8e99aa76b758a218e70c50ad33e']
+
+new_name = 'Ski run'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['4f8505e165c800780f024485f55ffe01154d827c']
+
+new_name = 'Eggboden' # Ski run 4
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3746a1b6be8658c0f2b7268c8a023a040e57fcd7']
+
+new_name = 'Ski run' # Ski run 8
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['89b9e6df26d2cccc92c15a66510fa00edb3155d5']
+
+new_name = 'Ski run' # Ski run 8
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['6f371ba9d5c2d4b30296a1b762862aa35d2f5e8b']
+
+new_name = 'Sattelegg' # Ski run 7
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['fef4b41eb99f8c8d1605c91e22cb946eec3ccc71']
+
+new_name = 'Ski run' # Ski run 7
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ee69cae48f2c29e3648ecd111f30ced21832a6a2']
+
+new_name = 'Ski run' # Ski run 7
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['5dad877b29d81710763d6fcfb738b70b4cb6d6ab']
+
+new_name = 'Ski run' # Ski run 7
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['0a4409e257898c08ccacbb421bd78cd6dc30172d']
+
+new_name = 'Ski run' # Ski run 7
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['58159a498eee65ca89fbcafab465652114c678e6']
+
+new_name = 'Ski run' # Phenix
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['97f27ae306583371528627453f3ba5d8eb4d2e19',
+               'cfa1b774b698de2db137856e65a261c2254694d3',
+               '026e56bc01f6d39c710ffdb4f28125e8fea75f9b']
+
+new_name = 'Phenix'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1c210f3e0c43e5083e892687679c291bafde795f']
+
+new_name = 'Ski run' # Arven - Skilift Tschuggen
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c10890b02b7766b2ecfb5c5951b06612b5043d51']
+
+new_name = 'Ski run' # Bärgelegg
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['7acfdaaa5400d12a618e8d30538b21f38dc7439f',
+               '45c67eec6bbe7cad2ae851181085c7e5411704c1']
+
+new_name = 'Brandegg - Grindelwald Grund' # Mettlen + Brandegg - Grindelwald Grund
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['b9dd1cf47aed01c403975210a85da48ce3b80fd4']
+
+new_name = 'Ski run' # Wengernalp - Allmend
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['4e7551613c49bbe5c6c6c3a6afce40f842ff1008']
+
+new_name = 'Ski run' # Wengernalp - Allmend
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['fcf6445d704a0b0df4a53b85efff6ada61f0360b']
+
+new_name = 'Ski run' # Wengernalp - Allmend
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3e2811f4eb74562428ba86077116e722ca6b76fb']
+
+new_name = 'Ski run' # Skilift Tschuggen - Aspen
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['6fb725774980fd8b59877995a36da4e0e4d0ec42']
+
+new_name = 'Schwarzen 31a' # Schwarzen
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['29a6ecff76ff624c38ea87f14576dc52018e9dad']
+
+new_name = 'Schwarzen 31b' # Schwarzen
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['bc497d7b49608c4b913b13ea2c6372a1edc3219e',
+               'faaa34e2e1fc8254aa30efd65dc0afb1febfee3f']
+
+new_name = 'Bort Direkt' # Bort Direkt + Bort Direct
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['d8f254266ef438dc82c0615f9442fc566293ce39']
+
+new_name = 'Aspen - Grindelwald Grund a' # Aspen - Grindelwald Grund
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3246d8dd1b02fa94be7f256162b81bbcb9282ed2']
+
+new_name = 'Aspen - Grindelwald Grund b' # Aspen - Grindelwald Grund
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['8e6c2aa12c611c9bd4dfae0e33d0e5e64c5bc796']
+
+new_name = 'First - Schreckfeld' # Ski run 53
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9602cdafd2cae1c46b09cd43374a220323227a2e',
+               '658422bc34581c855044516173fdf0568aa4b534']
+
+new_name = 'Honegg - Seeli' # Honegg - Seeli + Ski run 13
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['aa170a68d5ec23db7dc969c983d853bc8554ecd6']
+
+new_name = 'Distelboden - First' # Distelboden
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['274007aa90c5b1325b8974ca174a8e1e249dfdbd']
+
+new_name = 'Distelboden - Männlichen' # Ski run 5
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['458336aba12a6c792f8a7272390b120ed338b301']
+
+new_name = 'Ski run' # Ski run 5
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ba8e4645988e340bd852f09fa09becc5612df6c4']
+
+new_name = 'Ski run' # Ski run 21
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f1d28cf1e09fb945ba2658d1666630675ee1e24c']
+
+new_name = 'Ski run' # Ski run 21
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['632dd2c4c545176957b788b02af865fc6bf988ed']
+
+new_name = 'Ski run' # Ski run 21
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1b59c08e95278dd4cd3074efa00c321c676bcf26']
+
+new_name = 'Ski run' # Ski run 23
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['2d0331e247e6050d5c68c64b5ce26d075546fafd']
+
+new_name = 'Ski run' # Oberjoch
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+
+## Ski resort: Kleine Scheidegg - Männlichen - First - lifts ##
+
+rename_lifts(lifts, '37b9fd49af3875c91c16a95a3fda389306bea076', 'Firstbahn 1')
+
+rename_lifts(lifts, '40256b966978648e2e1014ebe2130d0811c472f6', 'Firstbahn 2')
+
+rename_lifts(lifts, '82461e98ce71ec14d2c845c7614311681e625947', 'Männlichenbahn 1')
+
+rename_lifts(lifts, '5779331ef31e11cd9c8557be2a3c5db4b6e0ca39', 'Männlichenbahn - mid station')
+
+rename_lifts(lifts, 'f8723bde0fa32989db381e4b3acef3e895742c29', 'Männlichenbahn 2')
+
+
+
+lifts_to_be_removed = ['68b96078767544d31c56b2eeb442ca012430540c', 'a1a10b0f9595c52600b05e2f574b380c0bd89962', '7cab36f023858da08cfaf489d9ca4ef9d140cd8d',
+                       '0d1b3b80e3312250857638a8e5d1d738fd7b18c6', '721e61338ab12503aa45bc65c7784f0acd5ec21d','1f2a53dfa97e36b67aa6be9bfdf31f1f762788ec']
+
+n_lifts = len(lifts)
+lifts = lifts[~lifts.id.isin(lifts_to_be_removed)]
+print('lifts removed:', n_lifts - len(lifts))
+
+
+

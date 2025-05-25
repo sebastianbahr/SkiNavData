@@ -79,5 +79,9 @@ Contains the each node and all nodes it is connected with including the duration
 * Remove runs with difficulty level not in novice, easy, intermediate, or advanced
 * Remove runs that are not downhill
 * If runs have no name but just a number call them 'Ski run ```digit```'
+* Perform manuall data cleaning:
+    - join runs that belong together
+    - rename runs with generic run names
+    - add changes to runs_changes.txt 
 
 #### Data cleaning lifts
