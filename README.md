@@ -60,15 +60,29 @@ Contains the each node and all nodes it is connected with including the duration
         {'427dc856-3809-442b-8ea1-936ac7e33d05': 
             {'connected_nodes': 
                 {'8a939c25-5ea3-4edc-82ac-e73603b2a0d6': 
-                    {'duration': 285.0,
+                    {'run_id': '40256b966978648e2e1014ebe2130d0811c472f6',
+                    'run_name': 'Firstbahn 2',
+                    'duration': 179.9957844773598,
+                    'distance': 889.0098287011313,
                     'difficulty': 'lift',
-                    'distance_prop': 0.9999999971843626}}}}},
+                    'distance_prop': 0.9999765804297766,
+                    'incoming_nodes': {
+                        '8a939c25-5ea3-4edc-82ac-e73603b2a456': 'straight',
+                        '94tg6c25-5ea3-4edc-82ac-e73603b2a0d6': 'left'
+                    }}}}}}},
     {'node': 
         {'8a939c25-5ea3-4edc-82ac-e73603b2a0d6': 
             {'connected_nodes': {'e054bea2-4ef5-47ac-aa15-de3214bb0f4c':
-                {'duration': 196.07908956605502,
-                'difficulty': 'novice',
-                'distance_prop': 0.014525672629369888}}}}},
+                {'run_id': '7da9c2cee5f8995b173ff0e890a0bf9495361c0d',
+                'run_name': None,
+                'duration': 10.675728581948984,
+                'distance': 74.73010007364289,
+                'difficulty': 'easy',
+                'distance_prop': 0.7057238142152766,
+                'incoming_nodes': {}}}}}},
+    {'node': 
+        {'92034fd4-5ea3-4edc-82ac-e73603b2a0d6': 
+            {'connected_nodes': {}}}},
     ]
 }
 ```
