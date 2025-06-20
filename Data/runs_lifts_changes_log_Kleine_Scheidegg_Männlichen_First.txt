@@ -1,7 +1,6 @@
 ### This text file logs all manuall adjustemnts carried out on runs and lifts ###
 
 ## SECTION 1 - Ski resort: Kleine Scheidegg - Männlichen - First - runs ##
-https://www.outdooractive.com/de/skiresort/berner-alpen/grindelwald-first/1648395/#dmlb=1
 
 ordered_ids = ['5665cff82888a30ed88d3e310c4a6fbcceb18d73',
                 'fd03dc94052773bf606dba5c6d8111da5c2dc844',
@@ -691,7 +690,7 @@ rename_lifts(lifts, '5779331ef31e11cd9c8557be2a3c5db4b6e0ca39', 'Männlichenbahn
 rename_lifts(lifts, 'f8723bde0fa32989db381e4b3acef3e895742c29', 'Männlichenbahn 2')
 
 
-# SECTION - 3
+# SECTION - 3 Run that need to be removed
 lifts_to_be_removed = ['68b96078767544d31c56b2eeb442ca012430540c', 'a1a10b0f9595c52600b05e2f574b380c0bd89962', '7cab36f023858da08cfaf489d9ca4ef9d140cd8d',
                        '0d1b3b80e3312250857638a8e5d1d738fd7b18c6', '721e61338ab12503aa45bc65c7784f0acd5ec21d','1f2a53dfa97e36b67aa6be9bfdf31f1f762788ec']
 
@@ -700,4 +699,17 @@ lifts = lifts[~lifts.id.isin(lifts_to_be_removed)]
 print('lifts removed:', n_lifts - len(lifts))
 
 
+# SECTION - 4 Lifts that need to be removed
+lifts_to_be_removed = ['68b96078767544d31c56b2eeb442ca012430540c', 'a1a10b0f9595c52600b05e2f574b380c0bd89962', '7cab36f023858da08cfaf489d9ca4ef9d140cd8d',
+                       '0d1b3b80e3312250857638a8e5d1d738fd7b18c6', '721e61338ab12503aa45bc65c7784f0acd5ec21d','1f2a53dfa97e36b67aa6be9bfdf31f1f762788ec']
 
+n_lifts = len(lifts)
+lifts = lifts[~lifts.id.isin(lifts_to_be_removed)]
+print('lifts removed:', n_lifts - len(lifts))
+
+
+# SECTION - 5 Manual changes in geojson.io
+- Split Firstbahn 37b9fd49af3875c91c16a95a3fda389306bea076 into two lifts
+- Remove lifts '68b96078767544d31c56b2eeb442ca012430540c', '721e61338ab12503aa45bc65c7784f0acd5ec21d', '7cab36f023858da08cfaf489d9ca4ef9d140cd8d', 'a1a10b0f9595c52600b05e2f574b380c0bd89962', '0d1b3b80e3312250857638a8e5d1d738fd7b18c6', '1f2a53dfa97e36b67aa6be9bfdf31f1f762788ec', 'a272bebf0c70e64f4c1b91631e3734c19500e979'
+- Remove runs '3833b4d430e1a828cbe15f4da41784aec06c3fc9', '913bc3e891aca63371d320846ca3284f1c3a23f7', 
+- Change difficulty to easy 65d3a372755d7e4e0be9a36b3d4c9d58c2517709
