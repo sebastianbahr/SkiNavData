@@ -177,3 +177,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local files
+Data/RunsLiftsGraph_final_inspection.geojson
+Data/RunsLiftsGraph_inspection.geojson
+Data/RunsLiftsGraph_inspection_v2.geojson

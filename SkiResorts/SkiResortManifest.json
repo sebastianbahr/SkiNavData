@@ -18,15 +18,19 @@
       "ResortName": "Kleine Scheidegg - Männlichen - First",
       "RunsLiftsGraphVersion": "1.0",
       "NodesGraphVersion": "1.0",
-      "RunsLiftsGraphUpdated": "20/08/2025",
-      "NodesGraphUpdated": "20/08/2025",
+      "RunsLiftsGraphUpdated": "08/09/2025",
+      "NodesGraphUpdated": "08/09/2025",
       "CameraCoordinates": [
-        7.980064,
-        46.608276
+        6.582636,
+        45.296759
       ],
-      "Zoom": 13.05,
-      "Bearing": -122.1,
-      "Country": "Switzerland"
+      "Zoom": 14.0,
+      "Bearing": 90.4,
+      "Country": "France",
+      "CountryIso2": "FR",
+      "RunsTotalLength": 600,
+      "RunsNumber": 334,
+      "HighestPoint": 3230
     }
   }
 }
