@@ -4,20 +4,6 @@
       "ResortName": "Les Trois Vallées",
       "RunsLiftsGraphVersion": "1.0",
       "NodesGraphVersion": "1.0",
-      "RunsLiftsGraphUpdated": "26/04/2025",
-      "NodesGraphUpdated": "26/04/2025",
-      "CameraCoordinates": [
-        6.582636,
-        45.296759
-      ],
-      "Zoom": 14.0,
-      "Bearing": 90.4,
-      "Country": "France"
-    },
-    "1d111e0379650f6a9186eaa3d21dadf973340c88": {
-      "ResortName": "Kleine Scheidegg - Männlichen - First",
-      "RunsLiftsGraphVersion": "1.0",
-      "NodesGraphVersion": "1.0",
       "RunsLiftsGraphUpdated": "08/09/2025",
       "NodesGraphUpdated": "08/09/2025",
       "CameraCoordinates": [
@@ -31,6 +17,24 @@
       "RunsTotalLength": 600,
       "RunsNumber": 334,
       "HighestPoint": 3230
+    },
+    "1d111e0379650f6a9186eaa3d21dadf973340c88": {
+      "ResortName": "Kleine Scheidegg - Männlichen - First",
+      "RunsLiftsGraphVersion": "1.0",
+      "NodesGraphVersion": "1.0",
+      "RunsLiftsGraphUpdated": "08/09/2025",
+      "NodesGraphUpdated": "08/09/2025",
+      "CameraCoordinates": [
+        7.980064,
+        46.608276
+      ],
+      "Zoom": 13.05,
+      "Bearing": -122.1,
+      "Country": "Switzerland",
+      "CountryIso2": "CH",
+      "RunsTotalLength": 156,
+      "RunsNumber": 80,
+      "HighestPoint": 2500
     }
   }
 }
