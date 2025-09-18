@@ -1,6 +1,7 @@
 import uuid
 import pyproj
 import math
+import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from shapely.geometry import LineString

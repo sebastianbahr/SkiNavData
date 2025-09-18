@@ -1,0 +1,534 @@
+### This text file logs all manuall adjustemnts carried out on runs and lifts ###
+
+## SECTION 1 - Ski resort: Les Trois Vallee - runs ##
+ordered_ids = ['300c707f6a86c50c14292b5531361fdc48aa33dd',
+                '7efe03d521ba51f0befdc05ec65c6d109173efa4',
+                'f3b157581b537575a36f1649d336a81a52261e58',
+                '4ed19d63dc19649e4ad0877a8ace7dc2f4ff5605',
+                'fc143759f56461a9199652103b325fa180462cae']
+
+new_name = 'Plantrey' # 'Méribel Altiport - Courchevel , Le Bouc Blanc, Courchevel  - La Tania, Plantrey', 'Plantrey'
+difficulty = 'novice'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+ordered_ids = ['b7e6ae80d93da207868455a05518574026f9d433']
+
+
+new_name = 'Éterlou - Meribel' # Éterlou
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['07fadc740c1a8b1b05175ed395d8adf246da54bb']
+
+new_name = 'Éterlou - Val Thorens' # Éterlou
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['0b5346eed646bbf34dcd36c2af672ab5d57eb716',
+               '7395f3bfa4a5b1f4ddd0de6c12a3fd09ec87055e']
+
+new_name = 'Voie de la Boucle' # Voie de la Boucle
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['7b0d323f11f9db74edd3ed634b5ad4a60e21e859',
+               '26ef79bf136daf4c6abb6887b5bbe71b9734d67a']
+
+new_name = 'Ski run' # Access UCPA
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c63944fd8557026782a212bd6588c83564765ee2']
+
+new_name = 'Ski run' # Aigle 2 
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['83a8ad38471d96ff50cff435406baa8a5772e6b1']
+
+new_name = 'Ski run' # Allamands
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['a8575ab3e8d8e6f04afe9e51e868df835fab572e',
+               '0b14e616809aa0cd98907c91aa0706253689fd32',
+               '411c25b5515212896e5d0d48ebed25802252c1c3']
+
+new_name = 'Allée' # 'Allée', 'Allée, Allamands'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3d32ffcecaeb04ebb166db9258a80088b42c3ad3']
+
+new_name = 'Alpage a' # 'Alpage'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['d899bf3762733b4a00468db599bde388dba73703']
+
+new_name = 'Alpage b' # 'Alpage'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['509daf2486575d9fa75f355857aca7d29d9e2c31', '0733574d59f64d49fbdf06a7f0e3852d10b9bd62']
+
+new_name = 'Boulevard des Echauds' # 'Alpage' + 'Boulevard des Echauds'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1841068a3096e585f54dceb9acd62f5c769df22a']
+
+new_name = 'Altiport - Val Thorens' # 'Altiport'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ec6e02916d137205190d4f3c63099ece56849d97']
+
+new_name = 'Altiport - Courchevel' # 'Altiport'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c0b63b6a06decd4eeea0d3f6b948aa228201b675',
+               'b2d476f072679184cc9d5e7261e51e3f53ddd058']
+
+new_name = 'Bettex' # 'Bettex'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c851bf6286892382be513b0fe23b93ab1b13848a']
+
+new_name = 'Blaireau' # 'Blaireau'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['db64542c42006fb6e3717415c3c8297a8b66121f']
+
+new_name = 'Ski run' # 'Blaireau'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1fb7476e07b22edcce1ee8597b9086e9e7232583']
+
+new_name = 'Blanchot - Val Thorens' # 'Blanchot'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['139ddcd7fe2410dbbf7e4d2501ecc9b4a16e5d5a']
+
+new_name = 'Blanchot - Meribel' # 'Blanchot'
+difficulty = 'novice'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['e782ae62c72c5658913d18c15d0163bf8040acea']
+
+new_name = 'Ski run' # 'Bleue'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9735d8f2961210c5191c994a59056a35b5967902']
+
+new_name = 'Ski run' # 'Bouc Blanc'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['7a6400963756d4d2d61fe059fcff22a55c006544']
+
+new_name = 'Bouc Blanc a' # 'Bouc-Blanc'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['d1f348f65eaa9928a1cd6ac0e8df72010ff52c67']
+
+new_name = 'Bouc Blanc b' # 'Bouc Blanc'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['8b42b99d498d44e736080bc44b5eee648b004b00']
+
+new_name = 'Ski run' # 'Boulevard Cumin'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['a9fb63ccb0f2438df5684db2708727cef3beb9f1',
+               '825e9324a6e90d65603043e48cd65c58a00dba7e']
+
+new_name = 'Boulevard Gury' # 'Boulevard Gury'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3a6e33fcb77982445b190b8996731858fb324963']
+
+new_name = 'Ski run' # 'Boulevard Rosaël'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f7c1496c953f9112d797cdebac86c7b3395798f7',
+               '5777aca187ff476424295d64988eaffcf19d9792',
+               '4f0af22083de0242ba4fd8a13a83ce315448e20a']
+
+new_name = 'Bouquetin' # 'Bouquetin'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['5d802997cfd547c77783bafc5c67062c933b35e1']
+
+new_name = 'Bouvreuil bleu a' # 'Bouvreuil bleu'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['0d44ec8b2cf4ac5d1b466c85151c33337a1ef1d5']
+
+new_name = 'Bouvreuil bleu b' # 'Bouvreuil bleu'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c7ca163eb881f3d186a5467f6f5be8a102a4f1d5']
+
+new_name = 'Ski run' # 'Béranger'
+difficulty = 'novice'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['e7e7ade221be5c329a0a3e262255101002f237c1']
+
+new_name = 'Chamois - Meribel' # 'Chamois'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['5cb676c4e18a246c01ce9760b032fb35c035ec45']
+
+new_name = 'Chamois - Val Thorens' # 'Chamois'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['986b1b4abee0285fcdf5de573ada8793d2c66927',
+               '22b8757b22b76c877b6aa2b6111a61e34ead87e8']
+
+new_name = 'Chemin Vizelle-Combe Saulire' # 'Chemin Vizelle-Combe Saulire' + 'Chemin Vizelle-Combe de la Saulire'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['76bf4d79c23cc3c08d8345a958a2ab1ff6969604']
+
+new_name = 'Chemin des Vallons a' # 'Chemin des Vallons'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['da0e5662aca5c6628f94f4a0604041cb40b2bd00']
+
+new_name = 'Chemin des Vallons b' # 'Chemin des Vallons'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['cf2282f240cebddc04319c640451586d3c2573b8']
+
+new_name = 'Ski run' # 'Chocard'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['ed6ac7a10c5b332b3f4aa01953186199abaf6b7e']
+
+new_name = 'Ski run' # 'Col de l'Audzin'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f3a7baef0c4323f1677bda317e01a3d803e06196']
+
+new_name = 'Ski run' # 'Col de l'Audzin'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+ordered_ids = ['02e39623b0a7379e5bb13f7265276d4e26df238c']
+
+new_name = 'Ski run' # 'Combe de la Saulire'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['b93491fe8c8bdef2badca4914bfed07d353d4f32']
+
+new_name = 'Ski run' # 'Combe de la Saulire'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['3ce97eca202a7262f96573fd81b11b3635ab515e']
+
+new_name = 'Ski run' # 'Combe du Laitelet'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['87174988a846ea854aa57d1f665f6d290194c56f']
+
+new_name = 'Combes - Les Menuires' # 'Combes'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['f8b504cf58e9643370192bc078ff603cb80efbc9']
+
+new_name = 'Combes - Val Thorens' # 'Combes'
+difficulty = 'novice'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['6d020e6c084ee876bcb609caed13c42ff7584572']
+
+new_name = 'Ski run' # 'Coqs'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['91c43590640e01b210443646291f88af4e98a182']
+
+new_name = 'Ski run' # 'Couloir Tournier'
+difficulty = 'advanced'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c074b0da709f9389d99be183cb476e945e55d152']
+
+new_name = 'Crêtes - Les Menuires' # 'Crêtes'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['515fb7b7fbeb8b41844dbdd4d83df83c5bf83dba']
+
+new_name = 'Crêtes - Meribel' # 'Crêtes'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['cdd7db62df692490b79d468e298ec6da0fac18b7']
+
+new_name = 'Ski run' # 'Doron'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['9bb0e8a715176fa4004a6e1602c469492876e3a6']
+
+new_name = 'Ski run' # 'Doron'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['c70b85e0472c319a1ea634e00aae4b3e29e9c1b1']
+
+new_name = 'Ski run' # 'Doron'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['28b796f85d8cbd45daf0c545699a9df01f5461f7']
+
+new_name = 'Ski run' # 'Doron'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['67cf6f0f71fe58eb8928ca9cf2cbacb04d8fac24']
+
+new_name = 'Ski run' # 'Easy way'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['1799bf9ea7f5d271f010e9cfd48dfec08f53773b']
+
+new_name = 'Ski run' # 'Easy way'
+difficulty = 'novice'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+ordered_ids = ['e423b2675ae483cbecf3b1742859f96bbf1cead7']
+
+new_name = 'Ski run' # 'Easy way'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+
+
+## SECTION - 2 Ski resort: Kleine Scheidegg - Männlichen - First - lifts ##
+
+
+
+
+# SECTION - 3 Run that need to be removed
+lifts_to_be_removed = ['', '4c8d28e91232c0842a7ee27b6b688f83e36871c1', '8e4db4f9ce7531c0eea3d776cc26242025e914ab',
+                       '', '','',
+                       '', '','']
+
+
+# SECTION - 4 Lifts that need to be removed
+
+
+
+
+# SECTION - 5 Manual changes in geojson.io
+
+-- extend Voie de la Boucle and combine with second part
+
+-- remove overlapping part of David Douillet Haut
+
+-- remove last bit of Boulevard du France and combine
+ordered_ids = ['5a65c66d935f978228da21b738797f7e1a5aea5a',
+               '5841780b3e4393c0809c71e2ac46860c32c8e08d']
+
+new_name = 'Boulevard du France' # 'Boulevard du France'
+difficulty = 'easy'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
+
+-- extend first part and combine Chasse
+ordered_ids = ['5cb676c4e18a246c01ce9760b032fb35c035ec45',
+               'f9cd54c053b1905515c38501807d4db593288bc4']
+
+new_name = 'Chasse' # 'Chasse'
+difficulty = 'intermediate'
+status = 'operating'
+
+runs = combine_ski_runs(runs, ordered_ids, new_name, difficulty, status)
